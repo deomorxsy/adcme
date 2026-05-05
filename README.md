@@ -2,11 +2,13 @@
 
 > adcme: Autonomia Didático-Científica para o Movimento Estudantil. Working Draft, Work-in-progress.
 
-Este repositório visa servir como uma cheatsheet rápida para a construção de politização e cidadania junto ao movimento estudantil na UPE (Universidade de Pernambuco).
+Este repositório visa servir como uma cheatsheet pessoal rápida para a construção de politização e cidadania junto ao movimento estudantil na UPE (Universidade de Pernambuco).
 
-O objetivo central é aumentar o nível de autonomia didático-científica pro movimento estudantil nas universidades públicas (e criar representatividade em áreas sub-representadas em Computação, como cybersec/infosec e etc), Ciência Aberta, Arquivística, e pesquisa independente, para que os estudantes consigam atuar em conjunto com os professores e ter uma maior diversidade de áreas de capacitação.
+O objetivo central é aumentar o nível de autonomia didático-científica pro movimento estudantil (Artigo 207 da Constituição de 1988 [2]) nas universidades públicas (e criar representatividade em áreas sub-representadas em Computação, como cybersec/infosec), Ciência Aberta, Arquivística, e pesquisa independente, para que os estudantes consigam colaborar com os professores e ter uma maior diversidade de áreas de capacitação.
 
-![](https://raw.githubusercontent.com/deomorxsy/adcme/refs/heads/main/assets/monitoria-estagio-docencia.svg)
+Adicionalmente, vários desses links também servem como técnicas e referências para Defesa de Tese, no sentido literal da frase, e não o ritual acadêmico de Mestrado e Doutorado.
+
+![correlacao-monitoria-e-estagio-docencia](./assets/monitoria-estagio-docencia.svg)
 
 - [1] [Guia de Ciência Aberta (Open Science) da USP 2026](https://cienciaaberta.usp.br/wp-content/uploads/sites/978/2026/02/Guia-para-Cienencia-Aberta-fechado.pdf)
 - [2] [Indissociabilidade dos Pilares de Ensino, Pesquisa e Extensão nas universidades, e autonomia didático-científica](https://www.jusbrasil.com.br/topicos/10650167/artigo-207-da-constituicao-federal-de-1988)
@@ -23,9 +25,9 @@ de artigos com Sci-hub e Anna's Archive, e de páginas web com a Wayback Machine
 - [9] [annas-archive](https://annas-archive.gd/)
 - [10] [Wayback Machine](https://web.archive.org/)
 
-Template LaTeX:
-- [11] [trabalhos da SBC (Sociedade Brasileira de Computação)](https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr) da ACM
-- [12] [ACM (Association for Computing Machinery)](https://www.acm.org/publications/proceedings-template)
+Templates LaTeX:
+- [11] [template SBC (Sociedade Brasileira de Computação)](https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr)
+- [12] [template ACM (Association for Computing Machinery)](https://www.acm.org/publications/proceedings-template)
 
 Organização das Referências pro trabalho (.bib, etc)
 - [13] [mendeley](https://www.mendeley.com/reference-manager/library/)
@@ -70,5 +72,5 @@ Mecânicas de Liga Acadêmica, extensão e eventos:
 
 Ponte com o PPGEC (Programa de Pós-Graduação em Engenharia da Computação) da UPE:
 - [35] [Manual de Orientações PROAP](https://antigo.upe.br/normas-e-documentos-pos-graduacao.html?download=642:manual-de-orienta%C3%A7%C3%A3o-para-o-uso-do-proap)
-
-
+- [36] [Política de Internacionalização da UPE](https://www.upe.br/anexos/documentos_institucionais/Politica_de_Internacionalizacao_da_UPE_15_06_17.pdf)
+- [37] [Missão, visão e valores PPGEC](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/apresentacao). Keywords: "colaboração interinstitucionais", interinstitucional.
