@@ -2,11 +2,11 @@
 
 > adcme: Autonomia Didático-Científica para o Movimento Estudantil. Working Draft, Work-in-progress.
 
-Este repositório visa servir como uma cheatsheet pessoal rápida para a construção de politização e cidadania junto ao movimento estudantil na UPE (Universidade de Pernambuco).
+Este repositório visa servir como uma cheatsheet pessoal rápida e Carta Aberta para a construção de politização e cidadania junto ao movimento estudantil na UPE (Universidade de Pernambuco).
 
 O objetivo central é aumentar o nível de autonomia didático-científica pro movimento estudantil (Artigo 207 da Constituição de 1988 [2]) nas universidades públicas (e criar representatividade em áreas sub-representadas em Computação, como cybersec/infosec), Ciência Aberta, Arquivística, e pesquisa independente, para que os estudantes consigam colaborar com os professores e ter uma maior diversidade de áreas de capacitação.
 
-Adicionalmente, vários desses links também servem como técnicas e referências para Defesa de Tese, no sentido literal da frase, e não o ritual acadêmico de Mestrado e Doutorado.
+Adicionalmente, vários desses links também servem como técnicas e referências para Defesa de Tese, no sentido literal da frase, não necessariamente o ritual acadêmico de Mestrado e Doutorado.
 
 ![correlacao-monitoria-e-estagio-docencia](./assets/monitoria-estagio-docencia-v2_with-background.svg)
 
