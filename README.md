@@ -77,6 +77,30 @@ Ponte com o PPGEC (Programa de Pós-Graduação em Engenharia da Computação) d
 - [35] [Política de Internacionalização da UPE](https://www.upe.br/anexos/documentos_institucionais/Politica_de_Internacionalizacao_da_UPE_15_06_17.pdf)
 - [36] [Missão, visão e valores PPGEC](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/apresentacao). Keywords: "colaboração interinstitucionais", interinstitucional.
 
-Correlação entre Monitoria de Graduação e Estágio-Docência em Pós-Graduação:
+### Monitoria de Graduação e Estágio-Docência em Pós-Graduação:
 
 - [37] Leta, F. R.; Mello, M. H. C. S.; Barbejat, M. E. R. P. [Estágio em docência: monitoria em nível de pós-graduação](https://admin.abenge.org.br/cobenge/legado/arquivos/18/trabalhos/APP003.pdf). In: COBENGE, 19., 2001, Porto Alegre. Anais eletrônicos [...]. Porto Alegre: PUCRS, 2001. Disponível em: http://www.abenge.org.br/cobenge/arquivos/18/trabalhos/APP003.pdf. Acesso em: 28 nov. 2018.
+
+
+### Processos híbridos de ensino no PPGEC da UPE (Multicampi)
+
+- [38] [Instrução Normativa nº 2/2024 da Capes](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=16843#anchor): Estabelece diretrizes gerais para a implementação de processos híbridos de ensino e aprendizagem na Pós-Graduação stricto sensu presencial.
+- [39] [Bolsista da CAPES não precisa residir onde faz o curso](https://www.gov.br/capes/pt-br/assuntos/noticias/bolsista-da-capes-nao-precisa-residir-onde-faz-o-curso)
+- [40] [Portaria nº 79/2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=11663#anchor)
+- [41] [1.9 Visão da área sobre Processos Híbridos de Ensino e Aprendizagem (PHEA) em PPG](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/colegio-de-ciencias-exatas-tecnologicas-e-multidisciplinar/ciencias-exatas-e-da-terra/COMPUTACAO_DOCAREA_2025_2028.pdf). Página 19.
+
+Entre 2024 e 2025, o PPGEC teve 207 estudantes matriculados, com mais de 100 pessoas a mais do que o segundo PPG no ranking de "quantidades de estudantes/PPG" da UPE [42].
+- [42] [Fonte: Edital de Apoio à Pesquisa (APQ) UPE  – 2025](https://drive.google.com/file/d/1EW804UC8weTCN5cgPmYAxmhYqxOuHjCQ/view)
+
+
+### Equivalências de estágio e trabalho remoto (teletrabalho)
+
+"§ 3º Na educação superior, as atividades de extensão, de monitorias, de iniciação científica e de intercâmbio no exterior desenvolvidas pelo estudante poderão ser equiparadas ao estágio em caso de previsão no projeto pedagógico do curso." (NR) [43].
+- [43] [LEI Nº 11.788, DE  25 DE SETEMBRO DE 2008. Dispõe do Estágio de Estudantes](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm).
+
+"§ 6º Fica permitida a adoção do regime de teletrabalho ou trabalho remoto para estagiários e aprendizes. (Incluído pela Lei nº 14.442, de 2022)" [44] [45].
+- [44] [DECRETO-LEI Nº 5.452, DE 1º DE MAIO DE 1943](https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm#art75b.1): Consolidação das leis de trabalho.
+- [45] [LEI Nº 14.442, DE 2 DE SETEMBRO DE 2022](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14442.htm#art6):  Dispõe sobre o pagamento de auxílio-alimentação ao empregado e altera a Lei nº 6.321, de 14 de abril de 1976, e a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.
+
+
+
