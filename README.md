@@ -8,7 +8,7 @@ O objetivo central é aumentar o nível de autonomia didático-científica pro m
 
 Adicionalmente, vários desses links também servem como técnicas e referências para Defesa de Tese, no sentido literal da frase, e não o ritual acadêmico de Mestrado e Doutorado.
 
-![correlacao-monitoria-e-estagio-docencia](./assets/monitoria-estagio-docencia.svg)
+![correlacao-monitoria-e-estagio-docencia](./assets/monitoria-estagio-docencia-v2_with-background.svg)
 
 - [0] [Dossiê Florestan Fernandes Revisado: Estudo preliminar sobre condição do Pós-graduando brasileiro no mundo do trabalho e da formação](https://drive.google.com/file/d/16-fp0SJ-uACyVRrIfCHIG5uqpb7auEeh/view). São Paulo: ANPG/CEMJ, 2023. Keywords: "Pesquisa é trabalho, mas bolsa não é salário"
 - [1] [Guia de Ciência Aberta (Open Science) da USP 2026](https://cienciaaberta.usp.br/wp-content/uploads/sites/978/2026/02/Guia-para-Cienencia-Aberta-fechado.pdf)

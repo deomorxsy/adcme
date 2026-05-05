@@ -2340,8 +2340,8 @@
       "index": "b9P",
       "roundness": null,
       "seed": 1765591204,
-      "version": 137,
-      "versionNonce": 506747420,
+      "version": 139,
+      "versionNonce": 1228854965,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2349,7 +2349,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1776394782146,
+      "updated": 1778009541717,
       "link": null,
       "locked": false
     },
@@ -2395,7 +2395,7 @@
       "type": "arrow",
       "x": 1626.8861642092259,
       "y": 3015.455055010781,
-      "width": 124.00000000000045,
+      "width": 124.00000000000023,
       "height": 145.0954102564101,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -2410,11 +2410,11 @@
       "index": "b9R",
       "roundness": null,
       "seed": 134109220,
-      "version": 137,
-      "versionNonce": 209814300,
+      "version": 154,
+      "versionNonce": 1846722491,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1776394782146,
+      "updated": 1778009541719,
       "link": null,
       "locked": false,
       "points": [
@@ -2427,7 +2427,7 @@
           -99
         ],
         [
-          122.41804285714329,
+          122.41804285714306,
           -145.0954102564101
         ]
       ],
@@ -2472,8 +2472,8 @@
       "index": "b9S",
       "roundness": null,
       "seed": 1933603620,
-      "version": 119,
-      "versionNonce": 1478147996,
+      "version": 121,
+      "versionNonce": 264690459,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2481,7 +2481,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1776394782146,
+      "updated": 1778009541717,
       "link": null,
       "locked": false,
       "text": "tem que apresentar\nem evento (JCE,\nSemana Universitária)",
@@ -3278,6 +3278,71 @@
       "endArrowhead": "triangle",
       "elbowed": false,
       "moveMidPointsWithElement": false
+    },
+    {
+      "id": "UAdmawcfVTXHSgOFWsK4G",
+      "type": "rectangle",
+      "x": 2397.8268063606083,
+      "y": 3552.5323498825755,
+      "width": 143.75,
+      "height": 53.75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "dotted",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b9p",
+      "roundness": null,
+      "seed": 719822581,
+      "version": 172,
+      "versionNonce": 435891669,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778009551782,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "eSzACDYIs6R1cqVzJvBoO",
+      "type": "text",
+      "x": 2406.5768063606083,
+      "y": 3552.5323498825755,
+      "width": 121.19999694824219,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b9q",
+      "roundness": null,
+      "seed": 1390540885,
+      "version": 192,
+      "versionNonce": 1483021051,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778009555517,
+      "link": null,
+      "locked": false,
+      "text": "@deomorxsy\n17/04/2026",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "@deomorxsy\n17/04/2026",
+      "autoResize": true,
+      "lineHeight": 1.25
     }
   ],
   "appState": {
