@@ -80,6 +80,8 @@ Ponte com o PPGEC (Programa de Pós-Graduação em Engenharia da Computação) d
 ### Monitoria de Graduação e Estágio-Docência em Pós-Graduação:
 
 - [37] Leta, F. R.; Mello, M. H. C. S.; Barbejat, M. E. R. P. [Estágio em docência: monitoria em nível de pós-graduação](https://admin.abenge.org.br/cobenge/legado/arquivos/18/trabalhos/APP003.pdf). In: COBENGE, 19., 2001, Porto Alegre. Anais eletrônicos [...]. Porto Alegre: PUCRS, 2001. Disponível em: http://www.abenge.org.br/cobenge/arquivos/18/trabalhos/APP003.pdf. Acesso em: 28 nov. 2018.
+- [46] [Estágio de docência: caminhos formativos para a educação superior na perspectiva de estudantes de pós-graduação](http://educa.fcc.org.br/scielo.php?script=sci_arttext&pid=S1519-39932022000100102)
+- [47] UNIVERSIDADE ESTADUAL DO CEARÁ. MARIA MÁRCIA MELO DE CASTRO MARTINS. [ESTÁGIO DE DOCÊNCIA NA PÓS-GRADUAÇÃO STRICTO SENSU: UMA PERSPECTIVA DE FORMAÇÃO PEDAGÓGICA](https://www.uece.br/ppge/wp-content/uploads/sites/29/2019/06/Disserta%C3%A7%C3%A3o_MARIA-M%C3%81RCIA-MELO-DE-CASTRO-MARTINS.pdf). FORTALEZA – CEARÁ. 2013.
 
 
 ### Processos híbridos de ensino no PPGEC da UPE (Multicampi)
