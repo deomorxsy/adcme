@@ -1,11 +1,8 @@
 ### adcme (WIP)
 
-> adcme: Autonomia Didático-Científica para o Movimento Estudantil. Working Draft, Work-in-progress.
-
+> [adcme](https://github.com/deomorxsy/adcme): Autonomia Didático-Científica para o Movimento Estudantil. Working Draft, Work-in-progress (WIP).
 
 ### Abstract
-
-> [adcme](https://github.com/deomorxsy/adcme): Autonomia Didático-Científica para o Movimento Estudantil. Working Draft, Work-in-progress (WIP).
 
 Este repositório visa servir como uma cheatsheet pessoal rápida e Carta Aberta para a construção de politização e cidadania junto ao movimento estudantil na UPE (Universidade de Pernambuco).
 
@@ -152,7 +149,11 @@ o C.A. pode ajudar mas vocês podem só chegar pros professores e apresentarem e
 
 8. "Ué, mas se o professor não tiver experiência com isso, como ele vai lecionar?": Aí que tá. O Art. 207 da constituição de 1988 [1] introduz a terminologia "Autonomia Didático-Científica" pras Universidades. Parte da universidade é o colegiado, e parte do colegiado é o Centro Acadêmico que serve pra representar os estudantes. Além disso, estudantes individuais podem fazer parte do colegiado, é só pedir pra participar por padrão. Isso quer dizer que autonomia didático-científica vale pro Movimento Estudantil e cada estudante independente, desde que o interesse desse estudante represente parcela dos estudantes, ou área sub-representada do segmento do curso, que no caso é a grande área de pesquisa de Computação.
 
-Daí tem outros fatores, como 8.1) a abordagem pedagógica de sala de aula invertida e 8.2) o fato que o quadro pequeno de professores além de serem de outra classe social diferente dos estudantes (professores tem salário e estão sob a previdência e outros benefícios trabalhistas. Estudantes trabalham com pesquisa, mas a bolsa de auxílio não é salário e portanto os estudantes ficam sujeitos à vulnerabilidade socioeconômica, o que reflete na vida acadêmica e automaticamente produção científica da IES. Além disso, 90% da mão de obra de pesquisa no Brasil vem dos estudantes de pós-graduação, o que via sistemas de Liga Acadêmica e Extensão valem pros discentes de graduação com PIBITI/PIBIC/BIA-PFA e outros [4].), sofrem o risco de conflito de interesse por serem concursados da UPE. O estudante tem o auxílio do Movimento Estudantil, que é um movimento político e serve pra reivindicar direitos e políticas de assistência estudantil. Quer dizer que via o Movimento Estudantil o estudante consegue atuar em colaboração com os orientadores e trazer pesquisa, extensão, capacitação e outras coisas pra universidade pra ajudar.
+Daí tem outros fatores, como:
+- 8.1) a abordagem pedagógica de sala de aula invertida [?] e
+- 8.2) o fato que o quadro pequeno de professores além de serem de outra classe social diferente dos estudantes (professores tem salário e estão sob a previdência e outros benefícios trabalhistas. Estudantes trabalham com pesquisa, mas a bolsa de auxílio não é salário e portanto os estudantes ficam sujeitos à vulnerabilidade socioeconômica, o que reflete na vida acadêmica e automaticamente produção científica da IES.
+
+Além disso, 90% da mão de obra de pesquisa no Brasil vem dos estudantes de pós-graduação, o que via sistemas de Liga Acadêmica e Extensão valem pros discentes de graduação com PIBITI/PIBIC/BIA-PFA e outros [4].), sofrem o risco de conflito de interesses e represália da reitoria por serem concursados da UPE. O estudante tem o auxílio do Movimento Estudantil, que é um movimento político e serve pra reivindicar direitos e políticas de assistência estudantil. Quer dizer que via o Movimento Estudantil o estudante consegue atuar em colaboração com os professores orientadores e trazer pesquisa, extensão, capacitação e outras coisas pra universidade pra ajudar.
 
 - [1]: [Art. 207 da constituição de 1988](https://www.jusbrasil.com.br/topicos/10650167/artigo-207-da-constituicao-federal-de-1988)
 - [2]: [Guia da Creditação da Extensão](https://drive.google.com/file/d/1H8Qggrm9lfcS2dlMWKzFAnUCdPTaOazP/view)
