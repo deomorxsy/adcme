@@ -70,7 +70,7 @@ Mecânicas de Liga Acadêmica, extensão e eventos:
 - [28] [Ligas Acadêmicas na UPE](https://www.upe.br/ligas-academicas.html)
 - [29] [Extensão na UPE](https://upe.br/extensao/)
 - [30] [Formulário de Cadastro de Liga Acadêmica](https://forms.gle/EgGGVfCzJY7v4ecB9)
-- [31] [Resolução CEPE Nº 092/2019](https://drive.google.com/file/d/1Mrkyv6A9o8u-Hq0CtvidMvP-aBSkaGL_/view):
+- [31] [Resolução CEPE Nº 092/2019](https://drive.google.com/file/d/1Mrkyv6A9o8u-Hq0CtvidMvP-aBSkaGL_/view). Regulamenta a formação e o funcionamento das Ligas Acadêmicas, no âmbito da UPE.
 - [32] [RESOLUÇÃO CONSUN No 056/2025: Emissão de certificados para eventos](https://web.archive.org/web/20260306220817/https://drive.google.com/file/d/1NMa8oouQs-sf7qFDMYlEt3BorXMOFk_P/view):
 - [33] [Guia da Creditação das Atividades de Extensão](https://drive.google.com/file/d/1H8Qggrm9lfcS2dlMWKzFAnUCdPTaOazP/view)
 
@@ -93,6 +93,9 @@ Ponte com o PPGEC (Programa de Pós-Graduação em Engenharia da Computação) d
 - [39] [Bolsista da CAPES não precisa residir onde faz o curso](https://www.gov.br/capes/pt-br/assuntos/noticias/bolsista-da-capes-nao-precisa-residir-onde-faz-o-curso)
 - [40] [Portaria nº 79/2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=11663#anchor)
 - [41] [1.9 Visão da área sobre Processos Híbridos de Ensino e Aprendizagem (PHEA) em PPG](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/colegio-de-ciencias-exatas-tecnologicas-e-multidisciplinar/ciencias-exatas-e-da-terra/COMPUTACAO_DOCAREA_2025_2028.pdf). Página 19.
+- [55] [Portaria nº 133, de 10 de Julho de 2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=12302#anchor). Regulamenta o acúmulo de bolsas de mestrado, doutorado e pós-doutorado concedidas pela CAPES no País com atividade remunerada ou outros rendimentos.
+- [56] [Portaria nº 187, de 28 de Setembro de 2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=13124#anchor). Altera a Portaria nº 133, de 10 de julho de 2023.
+
 
 Entre 2024 e 2025, o PPGEC teve 207 estudantes matriculados, com mais de 100 pessoas a mais do que o segundo PPG no ranking de "quantidades de estudantes/PPG" da UPE [42].
 - [42] [Fonte: Edital de Apoio à Pesquisa (APQ) UPE  – 2025](https://drive.google.com/file/d/1EW804UC8weTCN5cgPmYAxmhYqxOuHjCQ/view)
@@ -124,14 +127,37 @@ Resistência Estudantil:
 - [54] Germek, O. A. (1941). [A Liga de Combate a Sífilis: sua ação em vinte anos de atividade](https://revistas.usp.br/revistadc/en/article/view/50524). Revista De Medicina, 25(87), 9-14. https://doi.org/10.11606/issn.1679-9836.v25i87p9-14 . Mirror em: https://revistas.usp.br/revistadc/article/download/50524/54640/0
 
 
+- [57] [Currículo de referência SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/Curriculo-de-Referencia-IS-versao-2003.pdf)
+
+
+---
+
+Quanto ao comparecimento à eventos de Computação, tem algumas formas de tornar possível:
+- 1) trazendo a premissa do evento pra cá, por meio de um evento estudantil: as regras de emissão de certificados pra eventos online/virtuais/remotos valem [32], Ligas Acadêmicas [31] ou de extensão [33] pra chamar egressos, ex-estudantes, o pessoal do PPGEC ou entusiastas/pesquisadores que queiram contribuir
+- 2) entrando em contato com um pesquisador, geralmente um professor, que mora perto do lugar do evento. Pra formalizar essa pessoa pode entrar na Liga (se for estudante/professor em uma universidade, graduação ou PPG) ou no grupo de pesquisa (que é encabeçado por um professor)
+- 3) usando da verba de transporte e diárias pra se deslocar até lá e apresentar: tem uma pros professores e outra pros alunos
+  - essa tem no PPGEC via o PROAP, pra professores e alunos [34]
+  - em graduação, pode ser usado o exemplo da UPE Petrolina [58]
+
+- [31]
+- [32]
+- [33]
+- [34]
+- [58] [UPE Petrolina: Edital de Apoio à Participação em Eventos – Apoio a Discente](https://www.upe.br/petrolina/wp-content/uploads/2025/08/Edital-Apoio-Discente-Campus-Petrolina.pdf)
+
+- [59] [ACM curricula recommendations](https://www.acm.org/education/curricula-recommendations)
+
+- [60] [Comunidae Episciences](https://www.episciences.org/)
+
+
 
 ### FAQ
 
 um FAQ rápido:
 
-1. "Mas eu não quero fazer pesquisa": sem problema, desde o início as cadeiras já misturam pesquisa, extensão e ensino. Esses são indissociáveis e as universidades públicas devem obedecer essa indissociabilidade [1]
+1. "Mas e se  eu não quero fazer pesquisa?": sem problema, desde o início as cadeiras já misturam pesquisa, extensão e ensino. Esses são indissociáveis e as universidades públicas devem obedecer essa indissociabilidade [1]
 
-2. "Isso é avançado demais pra graduação": sem problema, no guia de creditação da extensão já existe previsão pro nivelamento através de sub-grupos dentro da cadeira de extensão. Nesses sub-grupos pode ocorrer o nivelamento didático e pedagógico pra adequar a diferentes grupos (de discentes e pós-graduandos). [2]
+2. "Isso não é avançado demais pra graduação?": sem problema, no guia de creditação da extensão já existe previsão pro nivelamento através de sub-grupos dentro da cadeira de extensão. Nesses sub-grupos pode ocorrer o nivelamento didático e pedagógico pra adequar a diferentes grupos (de discentes e pós-graduandos). [2]
 
 3. "Vou usar pra que isso aí?": o grupo de pesquisa na linha de pesquisa, por trás da disciplina, é quem costuma ir atrás das oportunidades e trazer pra mostrar. Não tem regra, mas faz parte de divulgação científica
 
@@ -143,7 +169,7 @@ o C.A. pode ajudar mas vocês podem só chegar pros professores e apresentarem e
 
 5. "E o que tem a ver com o Egresso? Ele não tem mais vínculo com a universidade": parte do pilar da Extensão é oferecer serviços como aulas e cursos como cortesia pra comunidade. SI é um curso regido pela recomendação da SBC entre 4 cursos de computação equivalentes  [3] (via pesquisa e extensão); os egressos fazem parte da comunidade da UPE E da sociedade brasileira da computação, no sentido literal da palavra e não necessariamente associado SBC. Além disso o público-alvo de entrada do PPGEC na região do agreste de Caruaru, é o egresso de SI, o único curso de computação em universidade pública da cidade [4]
 
-6. "Deixa isso pra PPG": o sistema de Ligas Acadêmicas permeia graduação e pós-graduação: vc pode criar a Liga no PPGEC, e estudantes de SI entrarem. E você pode criar em SI e estudantes do PPGEC entrarem. Professores podem entrar também. Pessoas de outras IES podem entrar também. Cursos relacionados com computação também podem entrar. E os eventos/workshops/etc podem ser remotos [8,9]
+6. "Por que você não deixa isso pra PPG?": o sistema de Ligas Acadêmicas permeia graduação e pós-graduação: vc pode criar a Liga no PPGEC, e estudantes de SI entrarem. E você pode criar em SI e estudantes do PPGEC entrarem. Professores podem entrar também. Pessoas de outras IES podem entrar também. Cursos relacionados com computação também podem entrar. E os eventos/workshops/etc podem ser remotos [8,5]
 
 7. "Remoto? Mas a graduação e o PPG não são presenciais?": Existe esse sistema híbrido de ensino pros PPGs no Brasil [6, 7]; o PPGEC é multicampi, e existe mecânica de evento remoto de extensão/pesquisa/ensino na UPE [5]
 
@@ -151,7 +177,7 @@ o C.A. pode ajudar mas vocês podem só chegar pros professores e apresentarem e
 
 Daí tem outros fatores, como:
 - 8.1) a abordagem pedagógica de sala de aula invertida [?] e
-- 8.2) o fato que o quadro pequeno de professores além de serem de outra classe social diferente dos estudantes (professores tem salário e estão sob a previdência e outros benefícios trabalhistas. Estudantes trabalham com pesquisa, mas a bolsa de auxílio não é salário e portanto os estudantes ficam sujeitos à vulnerabilidade socioeconômica, o que reflete na vida acadêmica e automaticamente produção científica da IES.
+- 8.2) os cinco níveis de magistério superior na universidade fazem parte de outra classe social diferente dos estudantes (professores tem salário e estão sob a previdência e outros benefícios trabalhistas. Estudantes trabalham com pesquisa, mas a bolsa de auxílio não é salário e portanto os estudantes ficam sujeitos à vulnerabilidade socioeconômica, o que reflete na vida acadêmica e automaticamente produção científica da IES.
 
 Além disso, 90% da mão de obra de pesquisa no Brasil vem dos estudantes de pós-graduação, o que via sistemas de Liga Acadêmica e Extensão valem pros discentes de graduação com PIBITI/PIBIC/BIA-PFA e outros [4].), sofrem o risco de conflito de interesses e represália da reitoria por serem concursados da UPE. O estudante tem o auxílio do Movimento Estudantil, que é um movimento político e serve pra reivindicar direitos e políticas de assistência estudantil. Quer dizer que via o Movimento Estudantil o estudante consegue atuar em colaboração com os professores orientadores e trazer pesquisa, extensão, capacitação e outras coisas pra universidade pra ajudar.
 
@@ -163,6 +189,59 @@ Além disso, 90% da mão de obra de pesquisa no Brasil vem dos estudantes de pó
 - [6]: [Instrução Normativa nº 2/2024 da Capes](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=16843#anchor): Estabelece diretrizes gerais para a implementação de processos híbridos de ensino e aprendizagem na Pós-Graduação stricto sensu presencial.
 - [7]: [Portaria nº 79/2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=11663#anchor). X – fixar residência na cidade onde realiza o curso; (Revogado pela Portaria nº 79, de 28 de Abril de 2023)
 - [8]: [Resolução CEPE Nº 092/2019](https://drive.google.com/file/d/1Mrkyv6A9o8u-Hq0CtvidMvP-aBSkaGL_/view): Regulamenta a formação e o funcionamento das ligas acadêmicas, no âmbito da UPE.
-- [9]: [RESOLUÇÃO CONSUN No 056/2025: Emissão de certificados para eventos](https://web.archive.org/web/20260306220817/https://drive.google.com/file/d/1NMa8oouQs-sf7qFDMYlEt3BorXMOFk_P/view)
+
+
+
+### Preprint and others
+
+Glossário e dicionário de siglas:
+- FAPESP: Fundação de Amparo à Pesquisa do Estado de São Paulo
+- OPAS: Organização Pan-Americana da Saúde
+- OMS: Organização Mundial da Saúde
+- OPAS/OMS: Organização Pan-Americana da Saúde / Organização Mundial da Saúde [61]
+- BIREME/OPAS/OMS: Centro Latino-Americano e do Caribe de Informação em Ciências da Saúde [61]
+- SciELO: Scientific Electronic Library Online, criado em 1998. Iniciativa coordenada pela FAPESP e o BIREME/OPAS/OMS. [61]
+- SOL: SBC Open Lib. A preprint open server. [62]
+
+Glossário de universidades:
+- UFSCAR: Universidade Federal de São Carlos
+- UFRGS: Universidade Federal do Rio Grande do Sul
+- UTFPR: Universidade Tecnológica Federal do Paraná
+  - RIUT: Repositório Institucional da Universidade Tecnológica Federal do Paraná (RIUT)
+- UnB: Universidade de Brasília
+- UFSC: Universidade Federal de Santa Catarina
+
+Digital Identifiers, pen-names, pseudonyms, anonymization, etc:
+- ORCID (Open Researcher and Contributor ID) é um identificador digital gratuito de pesquisadores.
+- DOI (Digital Object Identifier) é um código de identificação de documentos digitais, como artigos, livros, imagens etc.
+- DataCite é uma organização internacional sem fins lucrativos integrada à ORCID que auxilia na localização, identificação e citação de conjuntos de dados de pesquisa e ajuda a criar e gerir registros de metadados e DOIs.
+- OpenCitations é uma iniciativa que promove a disponibilidade de dados de citações acadêmicas.
+
+Sobre Preprint, DOI, h-index, etc:
+- [1]
+- [61] [FAQ SciELO](https://preprints.scielo.org/index.php/scielo/faq). keywords: "O que é um preprint?"
+- [62] [SOL: SBC Open Lib - sobre o servidor](https://preprints-sol.sbc.org.br/sbc/about)
+- [63] [Academia StackExchange: How can I add a DOI or link to my article on Google Scholar?](https://academia.stackexchange.com/questions/96328/how-can-i-add-a-doi-or-link-to-my-article-on-google-scholar)
+- [64] [DSpace](https://dspace.org/)
+
+Alguns exemplos de Portal de Periódicos baseados em DSpace:
+- [65] [RI-UFSCAR](https://repositorio.ufscar.br/)
+- [66] [Lume UFRGS](https://lume.ufrgs.br/)
+- [67] [RIUT UTFPR](https://repositorio.utfpr.edu.br/)
+- [68] [RIUnB, da UnB](https://repositorio.unb.br/)
+- [69] [BDM, da UnB, mantido pela SiB-UnB](https://bdm.unb.br/)
+- [69] [RI-UFSC](https://repositorio.ufsc.br/) (usando Manakin como frontend)
+
+
+Mecânicas de Matrícula Assistida
+- [70] [Página sobre Matrícula Assistida da UPE Campus Garanhuns](https://www.upe.br/garanhuns/graduacao/cursos-presenciais/bacharelado-em-engenharia-de-software/matricula-assistida/)
+- [71] [Resolução CEPE No 082/2016](https://drive.google.com/file/d/1HFm538_6LjBgYPZVQ7iAdjoNdHxifH0a/view). Regulamenta o tempo máximo para integralização curricular dos Cursos de Graduação da UPE.
+- [72] [Resolução CEPE No 084/2016](https://drive.google.com/file/d/10kZU3pILMoLbav9whoybWbBolp63Emws/view). Regulamenta o regime de matrícula assistida para discentes da UPE.
+
+### Equivalência dos quatro cursos SBC, Árvore detalhada de SI
+
+![arvore-detalhada-2026-custom-si](./assets/images/misc/upe-mechanics-personal/arvore-detalhada-SI-2026-custom.svg)
 
 ### Contribution guidelines
+
+
