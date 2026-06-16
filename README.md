@@ -91,7 +91,7 @@ Ponte com o PPGEC (Programa de Pós-Graduação em Engenharia da Computação) d
 
 - [38] [Instrução Normativa nº 2/2024 da Capes](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=16843#anchor): Estabelece diretrizes gerais para a implementação de processos híbridos de ensino e aprendizagem na Pós-Graduação stricto sensu presencial.
 - [39] [Bolsista da CAPES não precisa residir onde faz o curso](https://www.gov.br/capes/pt-br/assuntos/noticias/bolsista-da-capes-nao-precisa-residir-onde-faz-o-curso)
-- [40] [Portaria nº 79/2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=11663#anchor)
+- [40] [Portaria nº 79/2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=11663#anchor). X – fixar residência na cidade onde realiza o curso; (Revogado pela Portaria nº 79, de 28 de Abril de 2023)
 - [41] [1.9 Visão da área sobre Processos Híbridos de Ensino e Aprendizagem (PHEA) em PPG](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/colegio-de-ciencias-exatas-tecnologicas-e-multidisciplinar/ciencias-exatas-e-da-terra/COMPUTACAO_DOCAREA_2025_2028.pdf). Página 19.
 - [55] [Portaria nº 133, de 10 de Julho de 2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=12302#anchor). Regulamenta o acúmulo de bolsas de mestrado, doutorado e pós-doutorado concedidas pela CAPES no País com atividade remunerada ou outros rendimentos.
 - [56] [Portaria nº 187, de 28 de Setembro de 2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=13124#anchor). Altera a Portaria nº 133, de 10 de julho de 2023.
@@ -157,7 +157,7 @@ um FAQ rápido:
 
 1. "Mas e se  eu não quero fazer pesquisa?": sem problema, desde o início as cadeiras já misturam pesquisa, extensão e ensino. Esses são indissociáveis e as universidades públicas devem obedecer essa indissociabilidade [1]
 
-2. "Isso não é avançado demais pra graduação?": sem problema, no guia de creditação da extensão já existe previsão pro nivelamento através de sub-grupos dentro da cadeira de extensão. Nesses sub-grupos pode ocorrer o nivelamento didático e pedagógico pra adequar a diferentes grupos (de discentes e pós-graduandos). [2]
+2. "Isso não é avançado demais pra graduação?": sem problema, no guia de creditação da extensão já existe previsão pro nivelamento através de sub-grupos dentro da cadeira de extensão. Nesses sub-grupos pode ocorrer o nivelamento didático e pedagógico pra adequar a diferentes grupos (de discentes e pós-graduandos). [33]
 
 3. "Vou usar pra que isso aí?": o grupo de pesquisa na linha de pesquisa, por trás da disciplina, é quem costuma ir atrás das oportunidades e trazer pra mostrar. Não tem regra, mas faz parte de divulgação científica
 
@@ -167,29 +167,27 @@ mas a ideia é tirar o máximo da grade curricular, e a disciplina existe lá, a
 
 o C.A. pode ajudar mas vocês podem só chegar pros professores e apresentarem essa alternativa. Ou falar diretamente com o colegiado. E se o professor não tiver experiência lecionando telecom, é pra isso que serve a abordagem de pesquisa, mas os três principais são bem bons com isso, não é o nosso caso
 
-5. "E o que tem a ver com o Egresso? Ele não tem mais vínculo com a universidade": parte do pilar da Extensão é oferecer serviços como aulas e cursos como cortesia pra comunidade. SI é um curso regido pela recomendação da SBC entre 4 cursos de computação equivalentes  [3] (via pesquisa e extensão); os egressos fazem parte da comunidade da UPE E da sociedade brasileira da computação, no sentido literal da palavra e não necessariamente associado SBC. Além disso o público-alvo de entrada do PPGEC na região do agreste de Caruaru, é o egresso de SI, o único curso de computação em universidade pública da cidade [4]
+5. "E o que tem a ver com o Egresso? Ele não tem mais vínculo com a universidade": parte do pilar da Extensão é oferecer serviços como aulas e cursos como cortesia pra comunidade. SI é um curso regido pela recomendação da SBC entre 4 cursos de computação equivalentes [57], (via pesquisa e extensão); os egressos fazem parte da comunidade da UPE E da sociedade brasileira da computação, no sentido literal da palavra e não necessariamente associado SBC. Além disso o público-alvo de entrada do PPGEC na região do agreste de Caruaru, é o egresso de SI, o único curso de computação em universidade pública da cidade [0]
 
-6. "Por que você não deixa isso pra PPG?": o sistema de Ligas Acadêmicas permeia graduação e pós-graduação: vc pode criar a Liga no PPGEC, e estudantes de SI entrarem. E você pode criar em SI e estudantes do PPGEC entrarem. Professores podem entrar também. Pessoas de outras IES podem entrar também. Cursos relacionados com computação também podem entrar. E os eventos/workshops/etc podem ser remotos [8,5]
+6. "Por que você não deixa isso pra PPG?": o sistema de Ligas Acadêmicas permeia graduação e pós-graduação: vc pode criar a Liga no PPGEC, e estudantes de SI entrarem. E você pode criar em SI e estudantes do PPGEC entrarem. Professores podem entrar também. Pessoas de outras IES podem entrar também. Cursos relacionados com computação também podem entrar. E os eventos/workshops/etc podem ser remotos [31,32]
 
-7. "Remoto? Mas a graduação e o PPG não são presenciais?": Existe esse sistema híbrido de ensino pros PPGs no Brasil [6, 7]; o PPGEC é multicampi, e existe mecânica de evento remoto de extensão/pesquisa/ensino na UPE [5]
+7. "Remoto? Mas a graduação e o PPG não são presenciais?": Existe esse sistema híbrido de ensino pros PPGs no Brasil [38, 40]; o PPGEC é multicampi, e existe mecânica de evento remoto de extensão/pesquisa/ensino na UPE [32]
 
-8. "Ué, mas se o professor não tiver experiência com isso, como ele vai lecionar?": Aí que tá. O Art. 207 da constituição de 1988 [1] introduz a terminologia "Autonomia Didático-Científica" pras Universidades. Parte da universidade é o colegiado, e parte do colegiado é o Centro Acadêmico que serve pra representar os estudantes. Além disso, estudantes individuais podem fazer parte do colegiado, é só pedir pra participar por padrão. Isso quer dizer que autonomia didático-científica vale pro Movimento Estudantil e cada estudante independente, desde que o interesse desse estudante represente parcela dos estudantes, ou área sub-representada do segmento do curso, que no caso é a grande área de pesquisa de Computação.
+8. "Ué, mas se o professor não tiver experiência com isso, como ele vai lecionar?": Aí que tá. O Art. 207 da constituição de 1988 [2] introduz a terminologia "Autonomia Didático-Científica" pras Universidades. Parte da universidade é o colegiado, e parte do colegiado é o Centro Acadêmico que serve pra representar os estudantes. Além disso, estudantes individuais podem fazer parte do colegiado, é só pedir pra participar por padrão. Isso quer dizer que autonomia didático-científica vale pro Movimento Estudantil e cada estudante independente, desde que o interesse desse estudante represente parcela dos estudantes, ou área sub-representada do segmento do curso, que no caso é a grande área de pesquisa de Computação.
 
 Daí tem outros fatores, como:
 - 8.1) a abordagem pedagógica de sala de aula invertida [?] e
 - 8.2) os cinco níveis de magistério superior na universidade fazem parte de outra classe social diferente dos estudantes (professores tem salário e estão sob a previdência e outros benefícios trabalhistas. Estudantes trabalham com pesquisa, mas a bolsa de auxílio não é salário e portanto os estudantes ficam sujeitos à vulnerabilidade socioeconômica, o que reflete na vida acadêmica e automaticamente produção científica da IES.
 
-Além disso, 90% da mão de obra de pesquisa no Brasil vem dos estudantes de pós-graduação, o que via sistemas de Liga Acadêmica e Extensão valem pros discentes de graduação com PIBITI/PIBIC/BIA-PFA e outros [4].), sofrem o risco de conflito de interesses e represália da reitoria por serem concursados da UPE. O estudante tem o auxílio do Movimento Estudantil, que é um movimento político e serve pra reivindicar direitos e políticas de assistência estudantil. Quer dizer que via o Movimento Estudantil o estudante consegue atuar em colaboração com os professores orientadores e trazer pesquisa, extensão, capacitação e outras coisas pra universidade pra ajudar.
-
-- [1]: [Art. 207 da constituição de 1988](https://www.jusbrasil.com.br/topicos/10650167/artigo-207-da-constituicao-federal-de-1988)
-- [2]: [Guia da Creditação da Extensão](https://drive.google.com/file/d/1H8Qggrm9lfcS2dlMWKzFAnUCdPTaOazP/view)
-- [3]: [Currículo de referência SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/Curriculo-de-Referencia-IS-versao-2003.pdf)
-- [4]: [Dossiê Florestan Fernandes do Movimento Estudantil](https://drive.google.com/file/d/16-fp0SJ-uACyVRrIfCHIG5uqpb7auEeh/view)
-- [5]: [RESOLUÇÃO CONSUN No 056/2025: Emissão de certificados para eventos](https://web.archive.org/web/20260306220817/https://drive.google.com/file/d/1NMa8oouQs-sf7qFDMYlEt3BorXMOFk_P/view):
-- [6]: [Instrução Normativa nº 2/2024 da Capes](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=16843#anchor): Estabelece diretrizes gerais para a implementação de processos híbridos de ensino e aprendizagem na Pós-Graduação stricto sensu presencial.
-- [7]: [Portaria nº 79/2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=11663#anchor). X – fixar residência na cidade onde realiza o curso; (Revogado pela Portaria nº 79, de 28 de Abril de 2023)
-- [8]: [Resolução CEPE Nº 092/2019](https://drive.google.com/file/d/1Mrkyv6A9o8u-Hq0CtvidMvP-aBSkaGL_/view): Regulamenta a formação e o funcionamento das ligas acadêmicas, no âmbito da UPE.
-
+Além disso, 90% da mão de obra de pesquisa no Brasil vem dos estudantes de pós-graduação, o que via sistemas de Liga Acadêmica e Extensão valem pros discentes de graduação com PIBITI/PIBIC/BIA-PFA e outros [0].), sofrem o risco de conflito de interesses e represália da reitoria por serem concursados da UPE. O estudante tem o auxílio do Movimento Estudantil, que é um movimento político e serve pra reivindicar direitos e políticas de assistência estudantil. Quer dizer que via o Movimento Estudantil o estudante consegue atuar em colaboração com os professores orientadores e trazer pesquisa, extensão, capacitação e outras coisas pra universidade pra ajudar.
+ - [2] [Art. 207 da constituição de 1988](https://www.jusbrasil.com.br/topicos/10650167/artigo-207-da-constituicao-federal-de-1988): Indissociabilidade dos Pilares de Ensino, Pesquisa e Extensão nas universidades, e autonomia didático-científica.
+- [33] [Guia da Creditação das Atividades de Extensão](https://drive.google.com/file/d/1H8Qggrm9lfcS2dlMWKzFAnUCdPTaOazP/view)
+- [57] [Currículo de referência SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/Curriculo-de-Referencia-IS-versao-2003.pdf)
+- [0] [Dossiê Florestan Fernandes Revisado: Estudo preliminar sobre condição do Pós-graduando brasileiro no mundo do trabalho e da formação](https://drive.google.com/file/d/16-fp0SJ-uACyVRrIfCHIG5uqpb7auEeh/view). São Paulo: ANPG/CEMJ, 2023. Keywords: "Pesquisa é trabalho, mas bolsa não é salário"
+- [32] [RESOLUÇÃO CONSUN No 056/2025: Emissão de certificados para eventos](https://web.archive.org/web/20260306220817/https://drive.google.com/file/d/1NMa8oouQs-sf7qFDMYlEt3BorXMOFk_P/view):
+- [38] [Instrução Normativa nº 2/2024 da Capes](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=16843#anchor): Estabelece diretrizes gerais para a implementação de processos híbridos de ensino e aprendizagem na Pós-Graduação stricto sensu presencial.
+- [40] [Portaria nº 79/2023](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=11663#anchor). X – fixar residência na cidade onde realiza o curso; (Revogado pela Portaria nº 79, de 28 de Abril de 2023)
+- [31] [Resolução CEPE Nº 092/2019](https://drive.google.com/file/d/1Mrkyv6A9o8u-Hq0CtvidMvP-aBSkaGL_/view). Regulamenta a formação e o funcionamento das Ligas Acadêmicas, no âmbito da UPE.
 
 
 ### Preprint and others
@@ -232,16 +230,50 @@ Alguns exemplos de Portal de Periódicos baseados em DSpace:
 - [69] [BDM, da UnB, mantido pela SiB-UnB](https://bdm.unb.br/)
 - [69] [RI-UFSC](https://repositorio.ufsc.br/) (usando Manakin como frontend)
 
-
-Mecânicas de Matrícula Assistida
+Matrícula Assistida na UPE
 - [70] [Página sobre Matrícula Assistida da UPE Campus Garanhuns](https://www.upe.br/garanhuns/graduacao/cursos-presenciais/bacharelado-em-engenharia-de-software/matricula-assistida/)
 - [71] [Resolução CEPE No 082/2016](https://drive.google.com/file/d/1HFm538_6LjBgYPZVQ7iAdjoNdHxifH0a/view). Regulamenta o tempo máximo para integralização curricular dos Cursos de Graduação da UPE.
 - [72] [Resolução CEPE No 084/2016](https://drive.google.com/file/d/10kZU3pILMoLbav9whoybWbBolp63Emws/view). Regulamenta o regime de matrícula assistida para discentes da UPE.
+
+
+
+#### [15/06/2026, 21:14]
+
+Mecânicas de Estudante de Graduação cursando Disciplinas Isoladas
+de PPG (Programas de Pós-Graduação) como Aluno GradPG, uma generalização do Aluno Externo/Especial
+- [73] [Portaria nº 291, de 13 de Setembro de 2024](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=16305#anchor): Dispõe sobre o Programa de Graduação Integrada à Pós-Graduação stricto sensu (GradPG) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
+- [74] [Portaria nº 32, de 17 de Fevereiro de 2025](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=17404): Altera a Portaria CAPES nº 291, de 13 de setembro de 2024.
+
+"[...] Outro motivo, a modalidade aluno GradPG é aberta pra todos os estudantes de graduação e faz divulgação pra que tu consiga mandar a pesquisa de graduação, como o TCC, mesmo que fora de PIBITI/PIBIC/BIA-PFA/Monitoria de DCExt, dentro do período de entrada do PPG, pra congressos feito a CBSoft, que publicam os artigos no SOL-SBC, que por ser Qualis-A2 cumpre o requisito de Qualis-A4 que precisa pra defender a dissertação de mestrado [...]":
+- [75] [CBSOFT 2026](https://cbsoft.sbc.org.br/2026/)
+- [76] [SOL: SBC Open Lib, website for Journal of the Brazilian Computer Society (JBCS)](https://journals-sol.sbc.org.br/index.php/jbcs/about)
+- [77] [Regimento Interno PPGEC](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/downloads/finish/5-regimento-resolucoes-e-normas/734-regimento-interno-2024). Recife, Pernambuco, 2024.
+- [78] [Plataforma Sucupira](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf)
+- [79] [Grade Horária PPGEC 2026/1](https://web.archive.org/web/20260616010258/https://w2.solucaoatrio.net.br/upe-ppgec/pub/CourseExecutionTimetable.do?method=courseExecutionTimetableByPeriod&lng=pt&pg_query=8555587539764454&pg_range=25)
+
 
 ### Equivalência dos quatro cursos SBC, Árvore detalhada de SI
 
 ![arvore-detalhada-2026-custom-si](./assets/images/misc/upe-mechanics-personal/arvore-detalhada-SI-2026-custom.svg)
 
+
+### Improving TCC knowledge early on university
+
+These are supported by [abnTeX2](https://www.abntex.net.br/). Its [documentation]() is also available at github.
+- ABNT NBR 6022:2018: Informação e documentação - Artigo em publicação periódica científica impressa - Apresentação
+- ABNT NBR 6023:2002: Informação e documentação - Referência - Elaboração
+- ABNT NBR 6024:2012: Informação e documentação - Numeração progressiva das seções de um documento - Apresentação
+- ABNT NBR 6027:2012: Informação e documentação - Sumário - Apresentação
+- ABNT NBR 6028:2003: Informação e documentação - Resumo - Apresentação
+- ABNT NBR 6029:2006: Informação e documentação - Livros e folhetos - Apresentação (novo!)
+- ABNT NBR 6034:2004: Informação e documentação - Índice - Apresentação
+- ABNT NBR 10520:2002: Informação e documentação - Citações
+- ABNT NBR 10719:2015: Informação e documentação - Relatório técnico e/ou científico - Apresentação
+- ABNT NBR 14724:2011: Informação e documentação - Trabalhos acadêmicos - Apresentação
+- ABNT NBR 15287:2011: Informação e documentação - Projeto de pesquisa - Apresentação
+
+
 ### Contribution guidelines
+
 
 
