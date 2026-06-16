@@ -133,20 +133,17 @@ Resistência Estudantil:
 ---
 
 Quanto ao comparecimento à eventos de Computação, tem algumas formas de tornar possível:
-- 1) trazendo a premissa do evento pra cá, por meio de um evento estudantil: as regras de emissão de certificados pra eventos online/virtuais/remotos valem [32], Ligas Acadêmicas [31] ou de extensão [33] pra chamar egressos, ex-estudantes, o pessoal do PPGEC ou entusiastas/pesquisadores que queiram contribuir
-- 2) entrando em contato com um pesquisador, geralmente um professor, que mora perto do lugar do evento. Pra formalizar essa pessoa pode entrar na Liga (se for estudante/professor em uma universidade, graduação ou PPG) ou no grupo de pesquisa (que é encabeçado por um professor)
-- 3) usando da verba de transporte e diárias pra se deslocar até lá e apresentar: tem uma pros professores e outra pros alunos
+- 1: trazendo a premissa do evento pra cá, por meio de um evento estudantil: as regras de emissão de certificados pra eventos online/virtuais/remotos valem [32], Ligas Acadêmicas [31] ou de extensão [33] pra chamar egressos, ex-estudantes, o pessoal do PPGEC ou entusiastas/pesquisadores que queiram contribuir
+- 2: entrando em contato com um pesquisador, geralmente um professor, que mora perto do lugar do evento. Pra formalizar essa pessoa pode entrar na Liga (se for estudante/professor em uma universidade, graduação ou PPG) ou no grupo de pesquisa (que é encabeçado por um professor)
+- 3: usando da verba de transporte e diárias pra se deslocar até lá e apresentar: tem uma pros professores e outra pros alunos
   - essa tem no PPGEC via o PROAP, pra professores e alunos [34]
   - em graduação, pode ser usado o exemplo da UPE Petrolina [58]
-
 - [31]
 - [32]
 - [33]
 - [34]
 - [58] [UPE Petrolina: Edital de Apoio à Participação em Eventos – Apoio a Discente](https://www.upe.br/petrolina/wp-content/uploads/2025/08/Edital-Apoio-Discente-Campus-Petrolina.pdf)
-
 - [59] [ACM curricula recommendations](https://www.acm.org/education/curricula-recommendations)
-
 - [60] [Comunidae Episciences](https://www.episciences.org/)
 
 
@@ -155,32 +152,24 @@ Quanto ao comparecimento à eventos de Computação, tem algumas formas de torna
 
 um FAQ rápido:
 
-1. "Mas e se  eu não quero fazer pesquisa?": sem problema, desde o início as cadeiras já misturam pesquisa, extensão e ensino. Esses são indissociáveis e as universidades públicas devem obedecer essa indissociabilidade [1]
-
-2. "Isso não é avançado demais pra graduação?": sem problema, no guia de creditação da extensão já existe previsão pro nivelamento através de sub-grupos dentro da cadeira de extensão. Nesses sub-grupos pode ocorrer o nivelamento didático e pedagógico pra adequar a diferentes grupos (de discentes e pós-graduandos). [33]
-
-3. "Vou usar pra que isso aí?": o grupo de pesquisa na linha de pesquisa, por trás da disciplina, é quem costuma ir atrás das oportunidades e trazer pra mostrar. Não tem regra, mas faz parte de divulgação científica
-
-4. "Nunca ouvi falar nessa cadeira, pra que vou pagar?": tem mais ou menos 10 anos que a disciplina não é mais ofertada pela desvalorização de toda a comunidade em relação à áreas sub-representadas, justamente por não ter divulgação científica
+- 1: "Mas e se  eu não quero fazer pesquisa?": sem problema, desde o início as cadeiras já misturam pesquisa, extensão e ensino. Esses são indissociáveis e as universidades públicas devem obedecer essa indissociabilidade [1]
+- 2: "Isso não é avançado demais pra graduação?": sem problema, no guia de creditação da extensão já existe previsão pro nivelamento através de sub-grupos dentro da cadeira de extensão. Nesses sub-grupos pode ocorrer o nivelamento didático e pedagógico pra adequar a diferentes grupos (de discentes e pós-graduandos). [33]
+- 3: "Vou usar pra que isso aí?": o grupo de pesquisa na linha de pesquisa, por trás da disciplina, é quem costuma ir atrás das oportunidades e trazer pra mostrar. Não tem regra, mas faz parte de divulgação científica
+- 4: "Nunca ouvi falar nessa cadeira, pra que vou pagar?": tem mais ou menos 10 anos que a disciplina não é mais ofertada pela desvalorização de toda a comunidade em relação à áreas sub-representadas, justamente por não ter divulgação científica
 
 mas a ideia é tirar o máximo da grade curricular, e a disciplina existe lá, a linha de pesquisa de infraestrutura também existe, então agora só resta os estudantes levarem a demanda ao colegiado
 
 o C.A. pode ajudar mas vocês podem só chegar pros professores e apresentarem essa alternativa. Ou falar diretamente com o colegiado. E se o professor não tiver experiência lecionando telecom, é pra isso que serve a abordagem de pesquisa, mas os três principais são bem bons com isso, não é o nosso caso
 
-5. "E o que tem a ver com o Egresso? Ele não tem mais vínculo com a universidade": parte do pilar da Extensão é oferecer serviços como aulas e cursos como cortesia pra comunidade. SI é um curso regido pela recomendação da SBC entre 4 cursos de computação equivalentes [57], (via pesquisa e extensão); os egressos fazem parte da comunidade da UPE E da sociedade brasileira da computação, no sentido literal da palavra e não necessariamente associado SBC. Além disso o público-alvo de entrada do PPGEC na região do agreste de Caruaru, é o egresso de SI, o único curso de computação em universidade pública da cidade [0]
-
-6. "Por que você não deixa isso pra PPG?": o sistema de Ligas Acadêmicas permeia graduação e pós-graduação: vc pode criar a Liga no PPGEC, e estudantes de SI entrarem. E você pode criar em SI e estudantes do PPGEC entrarem. Professores podem entrar também. Pessoas de outras IES podem entrar também. Cursos relacionados com computação também podem entrar. E os eventos/workshops/etc podem ser remotos [31,32]
-
-7. "Remoto? Mas a graduação e o PPG não são presenciais?": Existe esse sistema híbrido de ensino pros PPGs no Brasil [38, 40]; o PPGEC é multicampi, e existe mecânica de evento remoto de extensão/pesquisa/ensino na UPE [32]
-
-8. "Ué, mas se o professor não tiver experiência com isso, como ele vai lecionar?": Aí que tá. O Art. 207 da constituição de 1988 [2] introduz a terminologia "Autonomia Didático-Científica" pras Universidades. Parte da universidade é o colegiado, e parte do colegiado é o Centro Acadêmico que serve pra representar os estudantes. Além disso, estudantes individuais podem fazer parte do colegiado, é só pedir pra participar por padrão. Isso quer dizer que autonomia didático-científica vale pro Movimento Estudantil e cada estudante independente, desde que o interesse desse estudante represente parcela dos estudantes, ou área sub-representada do segmento do curso, que no caso é a grande área de pesquisa de Computação.
-
-Daí tem outros fatores, como:
-- 8.1) a abordagem pedagógica de sala de aula invertida [?] e
-- 8.2) os cinco níveis de magistério superior na universidade fazem parte de outra classe social diferente dos estudantes (professores tem salário e estão sob a previdência e outros benefícios trabalhistas. Estudantes trabalham com pesquisa, mas a bolsa de auxílio não é salário e portanto os estudantes ficam sujeitos à vulnerabilidade socioeconômica, o que reflete na vida acadêmica e automaticamente produção científica da IES.
+- 5: "E o que tem a ver com o Egresso? Ele não tem mais vínculo com a universidade": parte do pilar da Extensão é oferecer serviços como aulas e cursos como cortesia pra comunidade. SI é um curso regido pela recomendação da SBC entre 4 cursos de computação equivalentes [57], (via pesquisa e extensão); os egressos fazem parte da comunidade da UPE E da sociedade brasileira da computação, no sentido literal da palavra e não necessariamente associado SBC. Além disso o público-alvo de entrada do PPGEC na região do agreste de Caruaru, é o egresso de SI, o único curso de computação em universidade pública da cidade [0]
+- 6: "Por que você não deixa isso pra PPG?": o sistema de Ligas Acadêmicas permeia graduação e pós-graduação: vc pode criar a Liga no PPGEC, e estudantes de SI entrarem. E você pode criar em SI e estudantes do PPGEC entrarem. Professores podem entrar também. Pessoas de outras IES podem entrar também. Cursos relacionados com computação também podem entrar. E os eventos/workshops/etc podem ser remotos [31,32]
+- 7: "Remoto? Mas a graduação e o PPG não são presenciais?": Existe esse sistema híbrido de ensino pros PPGs no Brasil [38, 40]; o PPGEC é multicampi, e existe mecânica de evento remoto de extensão/pesquisa/ensino na UPE [32]
+- 8: "Ué, mas se o professor não tiver experiência com isso, como ele vai lecionar?": Aí que tá. O Art. 207 da constituição de 1988 [2] introduz a terminologia "Autonomia Didático-Científica" pras Universidades. Parte da universidade é o colegiado, e parte do colegiado é o Centro Acadêmico que serve pra representar os estudantes. Além disso, estudantes individuais podem fazer parte do colegiado, é só pedir pra participar por padrão. Isso quer dizer que autonomia didático-científica vale pro Movimento Estudantil e cada estudante independente, desde que o interesse desse estudante represente parcela dos estudantes, ou área sub-representada do segmento do curso, que no caso é a grande área de pesquisa de Computação. Daí tem outros fatores, como:
+  - 8.1: a abordagem pedagógica de sala de aula invertida [?] e
+  - 8.2: os cinco níveis de magistério superior na universidade fazem parte de outra classe social diferente dos estudantes (professores tem salário e estão sob a previdência e outros benefícios trabalhistas. Estudantes trabalham com pesquisa, mas a bolsa de auxílio não é salário e portanto os estudantes ficam sujeitos à vulnerabilidade socioeconômica, o que reflete na vida acadêmica e automaticamente produção científica da IES.
 
 Além disso, 90% da mão de obra de pesquisa no Brasil vem dos estudantes de pós-graduação, o que via sistemas de Liga Acadêmica e Extensão valem pros discentes de graduação com PIBITI/PIBIC/BIA-PFA e outros [0].), sofrem o risco de conflito de interesses e represália da reitoria por serem concursados da UPE. O estudante tem o auxílio do Movimento Estudantil, que é um movimento político e serve pra reivindicar direitos e políticas de assistência estudantil. Quer dizer que via o Movimento Estudantil o estudante consegue atuar em colaboração com os professores orientadores e trazer pesquisa, extensão, capacitação e outras coisas pra universidade pra ajudar.
- - [2] [Art. 207 da constituição de 1988](https://www.jusbrasil.com.br/topicos/10650167/artigo-207-da-constituicao-federal-de-1988): Indissociabilidade dos Pilares de Ensino, Pesquisa e Extensão nas universidades, e autonomia didático-científica.
+- [2] [Art. 207 da constituição de 1988](https://www.jusbrasil.com.br/topicos/10650167/artigo-207-da-constituicao-federal-de-1988): Indissociabilidade dos Pilares de Ensino, Pesquisa e Extensão nas universidades, e autonomia didático-científica.
 - [33] [Guia da Creditação das Atividades de Extensão](https://drive.google.com/file/d/1H8Qggrm9lfcS2dlMWKzFAnUCdPTaOazP/view)
 - [57] [Currículo de referência SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/Curriculo-de-Referencia-IS-versao-2003.pdf)
 - [0] [Dossiê Florestan Fernandes Revisado: Estudo preliminar sobre condição do Pós-graduando brasileiro no mundo do trabalho e da formação](https://drive.google.com/file/d/16-fp0SJ-uACyVRrIfCHIG5uqpb7auEeh/view). São Paulo: ANPG/CEMJ, 2023. Keywords: "Pesquisa é trabalho, mas bolsa não é salário"
