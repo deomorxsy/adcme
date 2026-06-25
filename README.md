@@ -331,7 +331,7 @@ Usem a wayback machine para ler os sites do tboteproject abaixo: (https://web.ar
 - [] [CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root). Saeed Abbasi. March 18, 2026.
 
 
-### 10.5 A bridge between computing and social studies: Sociology, Political Science and Economy
+#### 10.5 A bridge between computing and social studies: Sociology, Political Science and Economy
 
 Encerramento da cryptorave 2026, relacionando o lobbying das Big Techs e o dossiê OSINT de fontes primárias divulgada pelo tboteproject entre março e abril 2026. Pelo prof. Sergio Amadeu da Silveira (UFABC):
 - [] [Imperialismo neoliberal - Tecnofacismo e o controle das terras raras](https://www.youtube.com/live/DR92F7l1nE4?t=748s)
