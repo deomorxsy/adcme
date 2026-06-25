@@ -11,6 +11,8 @@ O objetivo central é aumentar o nível de autonomia didático-científica pro m
 Adicionalmente, vários desses links também servem como técnicas e referências para Defesa de Tese, no sentido literal da frase, não necessariamente o ritual acadêmico de Mestrado e Doutorado.
 
 
+
+
 ![correlacao-monitoria-e-estagio-docencia](./assets/images/misc/upe-mechanics-personal/monitoria-estagio-docencia-v2_with-background.svg)
 
 - [0] [Dossiê Florestan Fernandes Revisado: Estudo preliminar sobre condição do Pós-graduando brasileiro no mundo do trabalho e da formação](https://drive.google.com/file/d/16-fp0SJ-uACyVRrIfCHIG5uqpb7auEeh/view). São Paulo: ANPG/CEMJ, 2023. Keywords: "Pesquisa é trabalho, mas bolsa não é salário"
@@ -269,6 +271,10 @@ These are supported by [abnTeX2](https://www.abntex.net.br/). Its [documentation
 ### 10. How AIS/Sysadmin relates to pedagogy in Software Engineering and Scientific Methodology
 
 DRAFT.
+- keywords: soberania nacional, etc
+- todo: split file in at least two README.md: english and pt-br.
+
+### 10.1 overall infosec
 
 #### ```;, [30/05/2026 23:33]```
 - [] [Estratégia Nacional e Sistema Integrado de Segurança da Informação](https://brasilparticipativo.presidencia.gov.br/processes/estrategia-seginfo). Coordenação-Geral de Gestão da Segurança da Informação (CGGSI/DSI/SSIC/GSI/PR). 27 de maio de 2026.
@@ -280,15 +286,23 @@ DRAFT.
 - [9]   []()
 - [10]  []()
 
-GRUB patches from mainstream distros, and gentoo
-- [] Fedora: https://src.fedoraproject.org/rpms/grub2
-- [] Gentoo: https://github.com/gentoo/gentoo/tree/master/sys-boot/grub
-- [] NixOS: https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/misc/grub/default.nix
-- [] Debian: https://salsa.debian.org/grub-team/grub/-/blob/master/debian/patches/series
-- [] Arch: https://gitlab.archlinux.org/archlinux/packaging/packages/grub/-/blob/main/PKGBUILD
-- [] Guix: https://cgit.git.savannah.gnu.org/cgit/guix.git/plain/gnu/packages/bootloaders.scm
+####  10.2 Distributions of Linux and other UNIX-like Operating Systems:
+
+- [] [Streamlining secure boot for Ubuntu 26.10](https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069/2)
+- [] [systemd birthDate Merge: Corporate Filings, Conflicts of Interest, and Governance Failure](https://tboteproject.com/systemdfindings/)
+- [] [endeavouros-blog: What’s New in EndeavourOS Titan Release?](https://endeavouros.com/news/whats-new-in-endeavouros-titan-release/)
+
+GRUB patches from mainstream distros, and Gentoo (no pun intended):
+- [] [Fedora](https://src.fedoraproject.org/rpms/grub2)
+- [] [Gentoo](https://github.com/gentoo/gentoo/tree/master/sys-boot/grub)
+- [] [NixOS](https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/misc/grub/default.nix)
+- [] [Debian](https://salsa.debian.org/grub-team/grub/-/blob/master/debian/patches/series)
+- [] [Arch](https://gitlab.archlinux.org/archlinux/packaging/packages/grub/-/blob/main/PKGBUILD)
+- [] [Guix](https://cgit.git.savannah.gnu.org/cgit/guix.git/plain/gnu/packages/bootloaders.scm)
 
 
+
+#### 10.3 CAIL: the Critical AI Literacy movement
 
 Usem a wayback machine para ler os sites do tboteproject abaixo: (https://web.archive.org/)
 
@@ -297,31 +311,27 @@ Usem a wayback machine para ler os sites do tboteproject abaixo: (https://web.ar
 - Critical AI Literacy (CAIL): (https://olivia.science/ai/)
 - Como a “mão invisível” das Big Techs pressiona governos na América Latina: (https://apublica.org/2025/09/como-a-mao-invisivel-das-big-techs-pressiona-governos-na-america-latina/)
 
+#### 10.4 OSINT research regarding lobbying, computing and mass-surveillance.
+
 "I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills. The answer involves a company that profits from your data writing laws that collect more of it. (self.linux)"
 - [] ["I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills".](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/), archived at [archive-fo](https://archive.is/qP6kR#selection-2427.40-2431.0).
 - [] [tboteproject: meta lobbying and other findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
 - [] [tboteproject: hekate git repo with the attestation findings](https://tboteproject.com/git/hekate/attestation-findings)
-- [] [tboteproect: systemd findings](https://tboteproject.com/systemdfindings/)
-- [] [tboteproect: Brazil findings(https://tboteproject.com/brazilfindings/)
-- [] [tboteproect: overall findings(https://tboteproject.com/findings/)
-
--[] [STATEMENT: Facebook’s move to full encryption means millions of child sexual abuse and exploitation cases will cease to be reported](https://www.protectchildren.ca/en/press-and-media/news-releases/2023/facebook-encryption). December 7, 2023
+- [] [tboteproject: systemd findings](https://tboteproject.com/systemdfindings/)
+- [] [tboteproject: Brazil findings](https://tboteproject.com/brazilfindings/)
+- [] [tboteproject: overall findings](https://tboteproject.com/findings/)
+- [] [protectchildren STATEMENT: Facebook’s move to full encryption means millions of child sexual abuse and exploitation cases will cease to be reported](https://www.protectchildren.ca/en/press-and-media/news-releases/2023/facebook-encryption). December 7, 2023
 
 "UK is also pushing the agenda of ID verification in order to use VPN, which is pro-surveillance and against the whole idea of using a VPN. This is specifically against mullvad vpn, which got its ads banned from tv and thus censored."
 - [] [mullvad blog: and then, UK](https://mullvad.net/en/and-then/uk)
-
 - [] [UK VPN Ban Investigation - Sources](https://tboteproject.com/git/hekate/globalfindings/src/branch/main/17-uk-vpn-ban-sources.md)
 - [] [Brazil Investigation Part 2: Corruption, Meta Lobbying Infrastructure, and Public Database Findings](https://tboteproject.com/git/hekate/globalfindings/src/branch/main/11-brazil-corruption-meta-lobbying-deep-dive.md)
 - [] [Canonical's GRUB Saboteur Has a 10-Year Plan](https://web.archive.org/web/20260326194021/https://www.sambent.com/canonicals-grub-saboteur-has-a-10-year-plan/), archived at [archive-fo](https://archive.fo/pHIqJ)
 - [] [CVE-2026-3888: Local Privilege Escalation in snapd](https://www.cve.org/CVERecord?id=CVE-2026-3888). published: 2026-03-17, updated: 2026-03-18.
 - [] [CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root). Saeed Abbasi. March 18, 2026.
 
-####  Distributions of Linux and other UNIX-like Operating Systems:
 
-- [] [Streamlining secure boot for Ubuntu 26.10](https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069/2)
-- [] [systemd birthDate Merge: Corporate Filings, Conflicts of Interest, and Governance Failure](https://tboteproject.com/systemdfindings/)
-- [] [endeavouros-blog: What’s New in EndeavourOS Titan Release?](https://endeavouros.com/news/whats-new-in-endeavouros-titan-release/)
-
+### 10.5 A bridge between computing and social studies: Sociology, Political Science and Economy
 
 Encerramento da cryptorave 2026, relacionando o lobbying das Big Techs e o dossiê OSINT de fontes primárias divulgada pelo tboteproject entre março e abril 2026. Pelo prof. Sergio Amadeu da Silveira (UFABC):
 - [] [Imperialismo neoliberal - Tecnofacismo e o controle das terras raras](https://www.youtube.com/live/DR92F7l1nE4?t=748s)
