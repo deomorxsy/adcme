@@ -1,6 +1,6 @@
 ### adcme (WIP)
 
-> [adcme](https://github.com/deomorxsy/adcme): Autonomia Didático-Científica para o Movimento Estudantil. Working Draft, Work-in-progress (WIP).
+> [adcme](https://github.com/deomorxsy/adcme): Autonomia Didático-Científica para o Movimento Estudantil [2]. Working Draft, Work-in-progress (WIP).
 
 ### Abstract
 
@@ -10,7 +10,8 @@ O objetivo central é aumentar o nível de autonomia didático-científica pro m
 
 Adicionalmente, vários desses links também servem como técnicas e referências para Defesa de Tese, no sentido literal da frase, não necessariamente o ritual acadêmico de Mestrado e Doutorado.
 
-![correlacao-monitoria-e-estagio-docencia](./assets/images/misc/upe-mechanics-personal/monitoria-estagio-docencia-v2_with-background.svg)
+
+![correlacao-monitoria-e-estagio-docencia](./assets/images/misc/upe-mechanics-personal/monitoria-estagio-docencia-v2_nobg.svg)
 
 
 - [0] [Dossiê Florestan Fernandes Revisado: Estudo preliminar sobre condição do Pós-graduando brasileiro no mundo do trabalho e da formação](https://drive.google.com/file/d/16-fp0SJ-uACyVRrIfCHIG5uqpb7auEeh/view). São Paulo: ANPG/CEMJ, 2023. Keywords: "Pesquisa é trabalho, mas bolsa não é salário"
@@ -66,7 +67,6 @@ Anti-paywall:
 Os documentos abaixos discutem autonomia didático-científica pro movimento estudantil via o sistema das Ligas Acadêmicas na UPE:
 
 Mecânicas de Liga Acadêmica, extensão e eventos:
-
 - [28] [Ligas Acadêmicas na UPE](https://www.upe.br/ligas-academicas.html)
 - [29] [Extensão na UPE](https://upe.br/extensao/)
 - [30] [Formulário de Cadastro de Liga Acadêmica](https://forms.gle/EgGGVfCzJY7v4ecB9)
@@ -75,7 +75,6 @@ Mecânicas de Liga Acadêmica, extensão e eventos:
 - [33] [Guia da Creditação das Atividades de Extensão](https://drive.google.com/file/d/1H8Qggrm9lfcS2dlMWKzFAnUCdPTaOazP/view)
 
 Ponte com o PPGEC (Programa de Pós-Graduação em Engenharia da Computação) da UPE:
-
 - [34] [Manual de Orientações PROAP](https://antigo.upe.br/normas-e-documentos-pos-graduacao.html?download=642:manual-de-orienta%C3%A7%C3%A3o-para-o-uso-do-proap)
 - [35] [Política de Internacionalização da UPE](https://www.upe.br/anexos/documentos_institucionais/Politica_de_Internacionalizacao_da_UPE_15_06_17.pdf)
 - [36] [Missão, visão e valores PPGEC](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/apresentacao). Keywords: "colaboração interinstitucionais", interinstitucional.
@@ -142,7 +141,7 @@ Quanto ao comparecimento à eventos de Computação, tem algumas formas de torna
 - [32]
 - [33]
 - [34]
-- [58] [UPE Petrolina: Edital de Apoio à Participação em Eventos – Apoio a Discente](https://www.upe.br/petrolina/wp-content/uploads/2025/08/Edital-Apoio-Discente-Campus-Petrolina.pdf)
+- [58] [Edital 04/2025, UPE Campus Petrolina: Apoio à Participação em Eventos – Apoio a Discente](https://www.upe.br/petrolina/wp-content/uploads/2025/08/Edital-Apoio-Discente-Campus-Petrolina.pdf)
 - [59] [ACM curricula recommendations](https://www.acm.org/education/curricula-recommendations)
 - [60] [Comunidae Episciences](https://www.episciences.org/)
 
@@ -159,7 +158,8 @@ um FAQ rápido:
 
 mas a ideia é tirar o máximo da grade curricular, e a disciplina existe lá, a linha de pesquisa de infraestrutura também existe, então agora só resta os estudantes levarem a demanda ao colegiado
 
-o C.A. pode ajudar mas vocês podem só chegar pros professores e apresentarem essa alternativa. Ou falar diretamente com o colegiado. E se o professor não tiver experiência lecionando telecom, é pra isso que serve a abordagem de pesquisa, mas os três principais são bem bons com isso, não é o nosso caso
+O Centro Acadêmico (C.A.) pode ajudar, mas é possível apresentar a alternativa diretamente aos professores ou ao colegiado.
+Caso o professor não tenha experiência lecionando X disciplina, exemplo de Telecom, a abordagem de pesquisa vai ajudar, pois no Pilar da Pesquisa é mais importante a vontade e a curiosidade do que a experiência prévia, o que nesse sentido acaba abrindo possibilidades.
 
 - 5: "E o que tem a ver com o Egresso? Ele não tem mais vínculo com a universidade": parte do pilar da Extensão é oferecer serviços como aulas e cursos como cortesia pra comunidade. SI é um curso regido pela recomendação da SBC entre 4 cursos de computação equivalentes [57], (via pesquisa e extensão); os egressos fazem parte da comunidade da UPE E da sociedade brasileira da computação, no sentido literal da palavra e não necessariamente associado SBC. Além disso o público-alvo de entrada do PPGEC na região do agreste de Caruaru, é o egresso de SI, o único curso de computação em universidade pública da cidade [0]
 - 6: "Por que você não deixa isso pra PPG?": o sistema de Ligas Acadêmicas permeia graduação e pós-graduação: vc pode criar a Liga no PPGEC, e estudantes de SI entrarem. E você pode criar em SI e estudantes do PPGEC entrarem. Professores podem entrar também. Pessoas de outras IES podem entrar também. Cursos relacionados com computação também podem entrar. E os eventos/workshops/etc podem ser remotos [31,32]
@@ -243,6 +243,7 @@ de PPG (Programas de Pós-Graduação) como Aluno GradPG, uma generalização do
 
 ### Equivalência dos quatro cursos SBC, Árvore detalhada de SI
 
+
 ![arvore-detalhada-2026-custom-si](./assets/images/misc/upe-mechanics-personal/arvore-detalhada-SI-2026-custom.svg)
 
 
@@ -262,7 +263,105 @@ These are supported by [abnTeX2](https://www.abntex.net.br/). Its [documentation
 - ABNT NBR 15287:2011: Informação e documentação - Projeto de pesquisa - Apresentação
 
 
+### How AIS/Sysadmin relates to pedagogy in Software Engineering and Scientific Methodology
+
+DRAFT.
+
+#### ```;, [30/05/2026 23:33]```
+- [] [Estratégia Nacional e Sistema Integrado de Segurança da Informação](https://brasilparticipativo.presidencia.gov.br/processes/estrategia-seginfo). Coordenação-Geral de Gestão da Segurança da Informação (CGGSI/DSI/SSIC/GSI/PR). 27 de maio de 2026.
+
+#### ```;, [31/05/2026 12:31]```
+- [] [Coletânea de Normas de Segurança da Informação Classificada, atualizada até janeiro de 2026 (GSI/PR)](https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/nucleo/legislacao-de-interesse/coletanea_normas_seguranca_informacao_classificada.pdf)
+
+- [8]   []()
+- [9]   []()
+- [10]  []()
+
+GRUB patches from mainstream distros, and gentoo
+- [] Fedora: https://src.fedoraproject.org/rpms/grub2
+- [] Gentoo: https://github.com/gentoo/gentoo/tree/master/sys-boot/grub
+- [] NixOS: https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/misc/grub/default.nix
+- [] Debian: https://salsa.debian.org/grub-team/grub/-/blob/master/debian/patches/series
+- [] Arch: https://gitlab.archlinux.org/archlinux/packaging/packages/grub/-/blob/main/PKGBUILD
+- [] Guix: https://cgit.git.savannah.gnu.org/cgit/guix.git/plain/gnu/packages/bootloaders.scm
+
+
+
+Usem a wayback machine para ler os sites do tboteproject abaixo: (https://web.archive.org/)
+
+- [] [AI Is Hollowing Out Higher Education](https://archive.is/ZHGCm)
+- Against the Uncritical Adoption of 'AI' Technologies in Academia: (https://philarchive.org/archive/GUEATU)
+- Critical AI Literacy (CAIL): (https://olivia.science/ai/)
+- Como a “mão invisível” das Big Techs pressiona governos na América Latina: (https://apublica.org/2025/09/como-a-mao-invisivel-das-big-techs-pressiona-governos-na-america-latina/)
+
+"I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills. The answer involves a company that profits from your data writing laws that collect more of it. (self.linux)"
+- [] ["I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills".](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/), archived at [archive-fo](https://archive.is/qP6kR#selection-2427.40-2431.0).
+- [] [tboteproject: meta lobbying and other findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
+- [] [tboteproject: hekate git repo with the attestation findings](https://tboteproject.com/git/hekate/attestation-findings)
+- [] [tboteproect: systemd findings](https://tboteproject.com/systemdfindings/)
+- [] [tboteproect: Brazil findings(https://tboteproject.com/brazilfindings/)
+- [] [tboteproect: overall findings(https://tboteproject.com/findings/)
+
+-[] [STATEMENT: Facebook’s move to full encryption means millions of child sexual abuse and exploitation cases will cease to be reported](https://www.protectchildren.ca/en/press-and-media/news-releases/2023/facebook-encryption). December 7, 2023
+
+"UK is also pushing the agenda of ID verification in order to use VPN, which is pro-surveillance and against the whole idea of using a VPN. This is specifically against mullvad vpn, which got its ads banned from tv and thus censored."
+- [] [mullvad blog: and then, UK](https://mullvad.net/en/and-then/uk)
+
+- [] [UK VPN Ban Investigation - Sources](https://tboteproject.com/git/hekate/globalfindings/src/branch/main/17-uk-vpn-ban-sources.md)
+- [] [Brazil Investigation Part 2: Corruption, Meta Lobbying Infrastructure, and Public Database Findings](https://tboteproject.com/git/hekate/globalfindings/src/branch/main/11-brazil-corruption-meta-lobbying-deep-dive.md)
+- [] [Canonical's GRUB Saboteur Has a 10-Year Plan](https://web.archive.org/web/20260326194021/https://www.sambent.com/canonicals-grub-saboteur-has-a-10-year-plan/), archived at [archive-fo](https://archive.fo/pHIqJ)
+- [] [CVE-2026-3888: Local Privilege Escalation in snapd](https://www.cve.org/CVERecord?id=CVE-2026-3888). published: 2026-03-17, updated: 2026-03-18.
+- [] [CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root). Saeed Abbasi. March 18, 2026.
+
+### Distributions of Linux and other UNIX-like Operating Systems:
+
+- [] [Streamlining secure boot for Ubuntu 26.10](https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069/2)
+- [] [systemd birthDate Merge: Corporate Filings, Conflicts of Interest, and Governance Failure](https://tboteproject.com/systemdfindings/)
+- [] [endeavouros-blog: What’s New in EndeavourOS Titan Release?](https://endeavouros.com/news/whats-new-in-endeavouros-titan-release/)
+
+
+Encerramento da cryptorave 2026, relacionando o lobbying das Big Techs e o dossiê OSINT de fontes primárias divulgada pelo tboteproject entre março e abril 2026. Pelo prof. Sergio Amadeu da Silveira (UFABC):
+- [] [Imperialismo neoliberal - Tecnofacismo e o controle das terras raras](https://www.youtube.com/live/DR92F7l1nE4?t=748s)
+
+
+
+### Bolsas CAPES
+
+
+- [80] [Portaria CAPES nº 180, de 27 de Abril de 2026](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=20431). Dispõe sobre a revogação de dispositivos que estabelecem a obrigatoriedade de restituição de valores despendidos pela CAPES com bolsas em casos de não titulação, no âmbito dos Programas Demanda Social - DS, Programa de Suporte à Pós-Graduação de Instituições de Ensino Particulares - PROSUP, Programa de Suporte à Pós-Graduação de Instituições Comunitárias de Educação Superior - PROSUC e Programa de Excelência Acadêmica - PROEX.
+
 ### Contribution guidelines
 
+Interested contributors can just fork and custom as they like,
+but if you want to contribute to this repository in specific,
+just explain exactly why do you think said feature is relevant
+to the context here presented. I'll try to review the
+Pull Request ASAP.
+
+
+The main themes regards Political Science for Computing, or rethorics of technology of computing. Which includes:
+- sub-represented areas of computing (demoscene in computer graphics, CTF in cybersec/infosec, etc.)
+- social movements and their representation in said sub-represented areas
+- dynamics of scholarships for sub-represented areas of study in computing
+- student claims of public policies for all in public universities
+- any new ideas of how to disseminate new areas of study
+- ideas regarding bridging the industry and the academia,
+without bias, and with diversity
+
+The code may be put inside a folder with the port name under ```./agendas/```.
+
+From here on the steps are:
+- 1: fork the repository
+- 2: pull the repository forked in your profile to your editing environment/machine
+- 3: create a new branch
+- 4: customize as you like, then you can add your name to the license and your caveats.
+- 5: commit the changes,
+- 6: push to your repo.
+- 7: now you can either:
+  - 7.1: open a pull request on the main branch of
+  your own repository, if it has a webring around or something like that.
+  - 7.2: open a pull request on the repository you forked that project from (this one).
+
+PS: ASAP here means I have no idea when I will even see the PR. You will miss 100% shots you don't take though.
 
 
