@@ -249,6 +249,9 @@ de PPG (Programas de Pós-Graduação) como Aluno GradPG, uma generalização do
 
 ###  9. Improving TCC knowledge early on university
 
+
+#### 9.1 Normas Técnicas Brasileiras da ABNT e Typesetting LaTeX
+
 These are supported by [abnTeX2](https://www.abntex.net.br/). Its [documentation]() is also available at github.
 - ABNT NBR 6022:2018: Informação e documentação - Artigo em publicação periódica científica impressa - Apresentação
 - ABNT NBR 6023:2002: Informação e documentação - Referência - Elaboração
