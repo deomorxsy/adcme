@@ -336,16 +336,18 @@ to the context here presented. I'll try to review the
 Pull Request ASAP.
 
 
-The main themes regards Political Science for Computing, or rethorics of technology of computing. Which includes:
+The main themes regards Political Science for Computing,
+or rethorics of technology of computing with Student Movement undertones,
+alongside diversity research lines. Which includes:
 - sub-represented areas of computing (demoscene in computer graphics, CTF in cybersec/infosec, etc.)
 - social movements and their representation in said sub-represented areas
 - dynamics of scholarships for sub-represented areas of study in computing
 - student claims of public policies for all in public universities
-- any new ideas of how to disseminate new areas of study
+- any new ideas of how to disseminate new areas of study/research
 - ideas regarding bridging the industry and the academia,
-without bias, and with diversity
+without bias, and with diversity of research lines
 
-The code may be put inside a folder with the port name under ```./agendas/```.
+The contributions may be put under ```./agendas/```.
 
 From here on the steps are:
 - 1: fork the repository
