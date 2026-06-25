@@ -116,7 +116,7 @@ Entre 2024 e 2025, o PPGEC teve 207 estudantes matriculados, com mais de 100 pes
 
 ### 5. Movimento Estudantil e Socio-Technical aspects in Information Systems
 
-Literatura de Design Science Research, repositório da @margaretstorey:
+Literatura de Design Science Research, repositório da [@margaretstorey](https://github.com/margaretstorey/):
 - [48] [Week 5: Literature Reviews on Software Engineering Research](https://github.com/margaretstorey/EmseUvic2020/blob/master/resources/literature.md)
 
 A relação com o movimento estudantil pode ser explorado pelo termo "socio-technical" usado aí como keyword:
