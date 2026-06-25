@@ -2,7 +2,7 @@
 
 > [adcme](https://github.com/deomorxsy/adcme): Autonomia Didático-Científica para o Movimento Estudantil [2]. Working Draft, Work-in-progress (WIP).
 
-### Abstract
+### 0. Abstract
 
 Este repositório visa servir como uma cheatsheet pessoal rápida e Carta Aberta para a construção de politização e cidadania junto ao movimento estudantil na UPE (Universidade de Pernambuco).
 
@@ -61,7 +61,7 @@ Anti-paywall:
 - [26] [12-feet-ladder](https://12ft.io/)
 - [27] [Freedium](https://freedium.cfd/)
 
-### Documentação para Ligas Acadêmicas
+### 1. Documentação para Ligas Acadêmicas
 
 Os documentos abaixos discutem autonomia didático-científica pro movimento estudantil via o sistema das Ligas Acadêmicas na UPE:
 
@@ -78,14 +78,14 @@ Ponte com o PPGEC (Programa de Pós-Graduação em Engenharia da Computação) d
 - [35] [Política de Internacionalização da UPE](https://www.upe.br/anexos/documentos_institucionais/Politica_de_Internacionalizacao_da_UPE_15_06_17.pdf)
 - [36] [Missão, visão e valores PPGEC](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/apresentacao). Keywords: "colaboração interinstitucionais", interinstitucional.
 
-### Monitoria de Graduação e Estágio-Docência em Pós-Graduação:
+### 2. Monitoria de Graduação e Estágio-Docência em Pós-Graduação:
 
 - [37] Leta, F. R.; Mello, M. H. C. S.; Barbejat, M. E. R. P. [Estágio em docência: monitoria em nível de pós-graduação](https://admin.abenge.org.br/cobenge/legado/arquivos/18/trabalhos/APP003.pdf). In: COBENGE, 19., 2001, Porto Alegre. Anais eletrônicos [...]. Porto Alegre: PUCRS, 2001. Disponível em: http://www.abenge.org.br/cobenge/arquivos/18/trabalhos/APP003.pdf. Acesso em: 28 nov. 2018.
 - [46] [Estágio de docência: caminhos formativos para a educação superior na perspectiva de estudantes de pós-graduação](http://educa.fcc.org.br/scielo.php?script=sci_arttext&pid=S1519-39932022000100102)
 - [47] UNIVERSIDADE ESTADUAL DO CEARÁ. MARIA MÁRCIA MELO DE CASTRO MARTINS. [ESTÁGIO DE DOCÊNCIA NA PÓS-GRADUAÇÃO STRICTO SENSU: UMA PERSPECTIVA DE FORMAÇÃO PEDAGÓGICA](https://www.uece.br/ppge/wp-content/uploads/sites/29/2019/06/Disserta%C3%A7%C3%A3o_MARIA-M%C3%81RCIA-MELO-DE-CASTRO-MARTINS.pdf). FORTALEZA – CEARÁ. 2013.
 
 
-### Processos híbridos de ensino no PPGEC da UPE (Multicampi)
+### 3. Processos híbridos de ensino no PPGEC da UPE (Multicampi)
 
 - [38] [Instrução Normativa nº 2/2024 da Capes](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=16843#anchor): Estabelece diretrizes gerais para a implementação de processos híbridos de ensino e aprendizagem na Pós-Graduação stricto sensu presencial.
 - [39] [Bolsista da CAPES não precisa residir onde faz o curso](https://www.gov.br/capes/pt-br/assuntos/noticias/bolsista-da-capes-nao-precisa-residir-onde-faz-o-curso)
@@ -99,7 +99,7 @@ Entre 2024 e 2025, o PPGEC teve 207 estudantes matriculados, com mais de 100 pes
 - [42] [Fonte: Edital de Apoio à Pesquisa (APQ) UPE  – 2025](https://drive.google.com/file/d/1EW804UC8weTCN5cgPmYAxmhYqxOuHjCQ/view)
 
 
-### Equivalências de estágio e trabalho remoto (teletrabalho)
+### 4. Equivalências de estágio e trabalho remoto (teletrabalho)
 
 "§ 3º Na educação superior, as atividades de extensão, de monitorias, de iniciação científica e de intercâmbio no exterior desenvolvidas pelo estudante poderão ser equiparadas ao estágio em caso de previsão no projeto pedagógico do curso." (NR) [43].
 - [43] [LEI Nº 11.788, DE  25 DE SETEMBRO DE 2008. Dispõe do Estágio de Estudantes](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm).
@@ -109,7 +109,7 @@ Entre 2024 e 2025, o PPGEC teve 207 estudantes matriculados, com mais de 100 pes
 - [45] [LEI Nº 14.442, DE 2 DE SETEMBRO DE 2022](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14442.htm#art6):  Dispõe sobre o pagamento de auxílio-alimentação ao empregado e altera a Lei nº 6.321, de 14 de abril de 1976, e a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.
 
 
-### Movimento Estudantil e Socio-Technical aspects in Information Systems
+### 5. Movimento Estudantil e Socio-Technical aspects in Information Systems
 
 Literatura de Design Science Research, repositório da @margaretstorey:
 - [48] [Week 5: Literature Reviews on Software Engineering Research](https://github.com/margaretstorey/EmseUvic2020/blob/master/resources/literature.md)
@@ -146,9 +146,7 @@ Quanto ao comparecimento à eventos de Computação, tem algumas formas de torna
 
 
 
-### FAQ
-
-um FAQ rápido:
+### 6. Um FAQ rápido:
 
 - 1: "Mas e se  eu não quero fazer pesquisa?": sem problema, desde o início as cadeiras já misturam pesquisa, extensão e ensino. Esses são indissociáveis e as universidades públicas devem obedecer essa indissociabilidade [1]
 - 2: "Isso não é avançado demais pra graduação?": sem problema, no guia de creditação da extensão já existe previsão pro nivelamento através de sub-grupos dentro da cadeira de extensão. Nesses sub-grupos pode ocorrer o nivelamento didático e pedagógico pra adequar a diferentes grupos (de discentes e pós-graduandos). [33]
@@ -178,7 +176,7 @@ Além disso, 90% da mão de obra de pesquisa no Brasil vem dos estudantes de pó
 - [31] [Resolução CEPE Nº 092/2019](https://drive.google.com/file/d/1Mrkyv6A9o8u-Hq0CtvidMvP-aBSkaGL_/view). Regulamenta a formação e o funcionamento das Ligas Acadêmicas, no âmbito da UPE.
 
 
-### Preprint and others
+### 7. Preprint and others
 
 Glossário e dicionário de siglas:
 - FAPESP: Fundação de Amparo à Pesquisa do Estado de São Paulo
@@ -240,13 +238,13 @@ de PPG (Programas de Pós-Graduação) como Aluno GradPG, uma generalização do
 - [79] [Grade Horária PPGEC 2026/1](https://web.archive.org/web/20260616010258/https://w2.solucaoatrio.net.br/upe-ppgec/pub/CourseExecutionTimetable.do?method=courseExecutionTimetableByPeriod&lng=pt&pg_query=8555587539764454&pg_range=25)
 
 
-### Equivalência dos quatro cursos SBC, Árvore detalhada de SI
+### 8. Equivalência dos quatro cursos SBC, Árvore detalhada de SI
 
 
 ![arvore-detalhada-2026-custom-si](./assets/images/misc/upe-mechanics-personal/arvore-detalhada-SI-2026-custom.svg)
 
 
-### Improving TCC knowledge early on university
+###  9. Improving TCC knowledge early on university
 
 These are supported by [abnTeX2](https://www.abntex.net.br/). Its [documentation]() is also available at github.
 - ABNT NBR 6022:2018: Informação e documentação - Artigo em publicação periódica científica impressa - Apresentação
@@ -262,7 +260,7 @@ These are supported by [abnTeX2](https://www.abntex.net.br/). Its [documentation
 - ABNT NBR 15287:2011: Informação e documentação - Projeto de pesquisa - Apresentação
 
 
-### How AIS/Sysadmin relates to pedagogy in Software Engineering and Scientific Methodology
+### 10. How AIS/Sysadmin relates to pedagogy in Software Engineering and Scientific Methodology
 
 DRAFT.
 
@@ -312,7 +310,7 @@ Usem a wayback machine para ler os sites do tboteproject abaixo: (https://web.ar
 - [] [CVE-2026-3888: Local Privilege Escalation in snapd](https://www.cve.org/CVERecord?id=CVE-2026-3888). published: 2026-03-17, updated: 2026-03-18.
 - [] [CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root). Saeed Abbasi. March 18, 2026.
 
-### Distributions of Linux and other UNIX-like Operating Systems:
+####  Distributions of Linux and other UNIX-like Operating Systems:
 
 - [] [Streamlining secure boot for Ubuntu 26.10](https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069/2)
 - [] [systemd birthDate Merge: Corporate Filings, Conflicts of Interest, and Governance Failure](https://tboteproject.com/systemdfindings/)
@@ -324,12 +322,12 @@ Encerramento da cryptorave 2026, relacionando o lobbying das Big Techs e o dossi
 
 
 
-### Bolsas CAPES
+### 11. Bolsas CAPES
 
 
 - [80] [Portaria CAPES nº 180, de 27 de Abril de 2026](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=20431). Dispõe sobre a revogação de dispositivos que estabelecem a obrigatoriedade de restituição de valores despendidos pela CAPES com bolsas em casos de não titulação, no âmbito dos Programas Demanda Social - DS, Programa de Suporte à Pós-Graduação de Instituições de Ensino Particulares - PROSUP, Programa de Suporte à Pós-Graduação de Instituições Comunitárias de Educação Superior - PROSUC e Programa de Excelência Acadêmica - PROEX.
 
-### Contribution guidelines
+### 12. Contribution guidelines
 
 Interested contributors can just fork and custom as they like,
 but if you want to contribute to this repository in specific,
