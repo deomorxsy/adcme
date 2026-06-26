@@ -346,7 +346,16 @@ Encerramento da cryptorave 2026, relacionando o lobbying das Big Techs e o dossi
 
 - [80] [Portaria CAPES nº 180, de 27 de Abril de 2026](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=20431). Dispõe sobre a revogação de dispositivos que estabelecem a obrigatoriedade de restituição de valores despendidos pela CAPES com bolsas em casos de não titulação, no âmbito dos Programas Demanda Social - DS, Programa de Suporte à Pós-Graduação de Instituições de Ensino Particulares - PROSUP, Programa de Suporte à Pós-Graduação de Instituições Comunitárias de Educação Superior - PROSUC e Programa de Excelência Acadêmica - PROEX.
 
-### 12. Contribution guidelines
+
+### 12. Mobilidade Urbana
+
+- [] [Manual Brasileiro de Sinalização de Trânsito, VOLUME VIII, Sinalização Cicloviária](https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/docs/copy%5Fof%5F%5F%5F08%5F%5F%5FMBST%5FVol.%5FVIII%5F%5F%5FSinalizacao%5FCicloviaria.pdf)
+- [] [Sinalização Cicloviária: Minfra abre Consulta Pública](https://www.mobilize.org.br/noticias/12673/sinalizacao-cicloviaria-minfra-abre-consulta-publica.html). 2021.
+
+Bike-SP, Projeto do Fabio Kon (IME-USP) com gente dos cursos de Computação:
+- [] [Programa Bike SP propõe trocar quilômetros pedalados por créditos no transporte público; inscrições estão abertas](https://g1.globo.com/sp/sao-paulo/noticia/2025/06/16/programa-bike-sp-propoe-trocar-quilometros-pedalados-por-creditos-no-transporte-publico-inscricoes-estao-abertas.ghtml). Por Redação TV Globo e g1 SP. 16/06/2025
+
+### 13. Contribution guidelines
 
 Interested contributors can just fork and custom as they like,
 but if you want to contribute to this repository in specific,
