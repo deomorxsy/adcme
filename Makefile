@@ -1,5 +1,5 @@
 # all:
-# 	latexmk -gg -bibtex-cond -pdf ppgec-abntex2-modelo.tex
+# 	latexmk -gg -bibtex-cond -pdf danctfceppg-modelo.tex
 # clean:
 # 	@rm -f *.out *.aux *.alg *.brf *.acr *.dvi *.gls *.log *.bbl *.blg *.ntn *.not *.lof *.lot *.toc *.loa *.lsg *.nlo *.nls *.ilg *.ind *.ist *.glg *.glo *.xdy *.acn *.idx *.loq *.synctex.gz *~
 #
@@ -46,12 +46,12 @@ $(SVG_DIR):
 
 pdf: init
 	set -x
-	#xelatex -no-pdf -interaction=nostopmode -file-line-error -shell-escape -recorder -output-directory="aux"  "./typeset/ppgec-abntex2-modelo.tex"
-	xelatex -interaction=nostopmode -file-line-error -shell-escape -recorder -output-directory="$(AUX_DIR)"  "./typeset/ppgec-abntex2-modelo.tex"
+	#xelatex -no-pdf -interaction=nostopmode -file-line-error -shell-escape -recorder -output-directory="aux"  "./typeset/danctfceppg-modelo.tex"
+	xelatex -interaction=nostopmode -file-line-error -shell-escape -recorder -output-directory="$(AUX_DIR)"  "./typeset/danctfceppg-modelo.tex"
 
 trace_pdf: init
 	set -x
-	strace -f xelatex -no-pdf -interaction=nostopmode -file-line-error -shell-escape -recorder -output-directory="aux"  "./typeset/ppgec-abntex2-modelo.tex"
+	strace -f xelatex -no-pdf -interaction=nostopmode -file-line-error -shell-escape -recorder -output-directory="aux"  "./typeset/danctfceppg-modelo.tex"
 
 #"main.tex"
 
