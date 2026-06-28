@@ -11,10 +11,8 @@ O objetivo central é aumentar o nível de autonomia didático-científica pro m
 Adicionalmente, vários desses links também servem como técnicas e referências para Defesa de Tese, no sentido literal da frase, não necessariamente o ritual acadêmico de Mestrado e Doutorado.
 
 Outros disclaimers:
-- [IANAL](https://en.wikipedia.org/wiki/IANAL): I Am Not a Lawyer. Os contribuidores não necessariamente são advogados, ou estudaram Direito. O repositório parte de pesquisa independente baseada em OSINT (Open Source Intelligence), que no Brasil acaba localizado/traduzido como Pesquisa em Fontes Abertas. Então quaisquer suposição parte dessa premissa, e de explorar as possibilidades enquanto estudante, via tentativa e erro.
+- [INL](https://en.wikipedia.org/wiki/IANAL): I am Not a Lawyer. Os contribuidores não necessariamente são advogados, ou estudaram Direito. O repositório parte de pesquisa independente baseada em OSINT (Open Source Intelligence), que no Brasil acaba localizado/traduzido como Pesquisa em Fontes Abertas. Então quaisquer suposição parte dessa premissa, e de explorar as possibilidades enquanto estudante, via tentativa e erro.
 - O repositório e seu conteúdo, assim como o tópico anterior, se preocupa mais com a semântica lógica das regras do que com a sintaxe ou como são apresentadas: esse sempre sempre estará em segundo plano, após a rodada de tentativas e erros.
-
-
 
 ![correlacao-monitoria-e-estagio-docencia](./assets/images/misc/upe-mechanics-personal/monitoria-estagio-docencia-v2_with-background.svg)
 
@@ -340,13 +338,23 @@ Encerramento da cryptorave 2026, relacionando o lobbying das Big Techs e o dossi
 - [] [Imperialismo neoliberal - Tecnofacismo e o controle das terras raras](https://www.youtube.com/live/DR92F7l1nE4?t=748s)
 
 
+![doi-artifacts-v5](./assets/images/misc/upe-mechanics-personal/doi-artifacts-v5.svg)
 
 ### 11. Bolsas CAPES
 
 
 - [80] [Portaria CAPES nº 180, de 27 de Abril de 2026](https://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=20431). Dispõe sobre a revogação de dispositivos que estabelecem a obrigatoriedade de restituição de valores despendidos pela CAPES com bolsas em casos de não titulação, no âmbito dos Programas Demanda Social - DS, Programa de Suporte à Pós-Graduação de Instituições de Ensino Particulares - PROSUP, Programa de Suporte à Pós-Graduação de Instituições Comunitárias de Educação Superior - PROSUC e Programa de Excelência Acadêmica - PROEX.
 
-### 12. Contribution guidelines
+
+### 12. Mobilidade Urbana
+
+- [] [Manual Brasileiro de Sinalização de Trânsito, VOLUME VIII, Sinalização Cicloviária](https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/docs/copy%5Fof%5F%5F%5F08%5F%5F%5FMBST%5FVol.%5FVIII%5F%5F%5FSinalizacao%5FCicloviaria.pdf)
+- [] [Sinalização Cicloviária: Minfra abre Consulta Pública](https://www.mobilize.org.br/noticias/12673/sinalizacao-cicloviaria-minfra-abre-consulta-publica.html). 2021.
+
+Bike-SP, Projeto do Fabio Kon (IME-USP) com gente dos cursos de Computação:
+- [] [Programa Bike SP propõe trocar quilômetros pedalados por créditos no transporte público; inscrições estão abertas](https://g1.globo.com/sp/sao-paulo/noticia/2025/06/16/programa-bike-sp-propoe-trocar-quilometros-pedalados-por-creditos-no-transporte-publico-inscricoes-estao-abertas.ghtml). Por Redação TV Globo e g1 SP. 16/06/2025
+
+### 13. Contribution guidelines
 
 Interested contributors can just fork and custom as they like,
 but if you want to contribute to this repository in specific,
