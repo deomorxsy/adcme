@@ -122,7 +122,7 @@ xelatex_version() {
 }
 
 xelatex_pdf() {
-    TEXFILE_TO_INGEST="./typeset/ppgec-abntex2-modelo.tex"
+    TEXFILE_TO_INGEST="./typeset/danctfceppg-modelo.tex"
     IN_BETWEEN_BUILD_ART="./artifacts/buildaxela.sh"
 
     # Define function scope for Function [pretty-printer]
