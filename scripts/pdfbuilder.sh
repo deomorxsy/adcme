@@ -10,8 +10,8 @@ MD_DIR="./typeset/markdown"
 IN_DIR="./typeset/"
 
 # Styles directories
-STYLES_DIR=./assets/styles
-STYLE=riceamasters
+STYLES_DIR="./typeset/pdfassets/styles"
+STYLE="riceamasters"
 
 function_scope_cleaner() {
 
